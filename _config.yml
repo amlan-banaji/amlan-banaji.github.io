@@ -9,7 +9,7 @@
 locale                   : "en-UK"
 title                    : "Lawrence D. Lee"
 title_separator          : "-"
-name                     : &name "Stuart A. Burrell"
+name                     : &name "Lawrence D. Lee"
 description              : &description "PhD Student at the University of St Andrews"
 url                      : https://lawrence-d-lee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lawrence-d-lee"
+  github           : "lawrence-d-lee.github.io"
   google_plus      :
   keybase          :
   instagram        :
