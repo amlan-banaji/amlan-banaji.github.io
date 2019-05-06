@@ -15,6 +15,8 @@ My research focuses on fractal geometry, but I'm also interested in dynamical sy
 
 I'm supervised by [Professor Kenneth Falconer](http://www.mcs.st-and.ac.uk/~kenneth/) and [Dr Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/).
 
+My Erdös number is 2 (Lee → Vaughan → Erdös).
+
 ## Contact details
 
 School of Mathematics and Statistics  
