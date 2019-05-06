@@ -10,7 +10,7 @@ author_profile: true
 *submitted.*
 
 [1] Diophantine approximation on manifolds and lower bounds for Hausdorff dimension (with V. Beresnevich, R. C. Vaughan, S.Velani), [arXiv](https://arxiv.org/abs/1712.03761)  
-**Mathematika, 63(2017), no.3, 762-779** (to appear).
+**Mathematika, 63(2017), no.3, 762-779**.
 
 
 {% include base_path %}
