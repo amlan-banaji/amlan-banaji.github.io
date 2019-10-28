@@ -6,6 +6,9 @@ author_profile: true
 
 ## Talks
 
+An Introduction to Multifractals
+*“Edinburgh Mathematical Society Postgraduate Meeting for Students”, The Burn (Edzell), UK, 28/5/19-30/5/19*
+
 Multifractals
 *Postgraduate Interdisciplinary Mathematical Symposium (PIMS), The Burn (Edzell), UK, 30/1/1-1/2/19* 
 
@@ -16,7 +19,7 @@ Lq-spectra of self-affine measures: closed forms, counterexamples, and split bin
 *Analysis Seminar, University of St Andrews, 6/11/18*
 
 Diophantine approximation: an introduction 
-*“Edinburgh Mathematical Society Postgraduate Meeting for Students”, The Burn (Edzell), UK, 21/5/18-23/5/18. (Awarded joint prize for best talk).*
+*“Edinburgh Mathematical Society Postgraduate Meeting for Students”, The Burn (Edzell), UK, 21/5/18-23/5/18 (Awarded joint prize for best talk).*
 
 Closed form expressions for Lq-spectra
 *Analysis Seminar, University of St Andrews, 1/5/18*
@@ -31,6 +34,9 @@ Diophantine approximation on manifolds and lower bounds for Hausdorff dimension
 *Analysis Seminar, University of St Andrews, 8/10/17*
 
 ## Conferences/Meetings Attended
+
+Thermodynamic Formalism: Ergodic Theory and Geometry
+*University of Warwick, UK, 22/7/19-26/7/19*
 
 Number Theory and Dynamics 
 *University of Cambridge, UK, 25/3/19-29/3/19*
