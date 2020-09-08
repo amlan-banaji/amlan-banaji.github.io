@@ -9,7 +9,7 @@ redirect_from:
   -
 ---
 
-I'm a EPSRC funded PhD student in mathematics at the University of St Andrews where I am part of the [analysis research group](http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/).
+I'm an EPSRC funded PhD student in mathematics at the University of St Andrews where I am part of the [analysis research group](http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/).
 
 My research focuses on fractal geometry, but I'm also interested in dynamical systems and number theory (particularly Diophantine approximation).
 
