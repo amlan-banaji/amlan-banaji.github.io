@@ -6,6 +6,9 @@ author_profile: true
 
 ## Talks
 
+Lq-spectra of measures on non-conformal attractors
+*Analysis Seminar, University of St Andrews, 18/2/20*
+
 An Introduction to Multifractals
 *“Edinburgh Mathematical Society Postgraduate Meeting for Students”, The Burn (Edzell), UK, 28/5/19-30/5/19*
 
