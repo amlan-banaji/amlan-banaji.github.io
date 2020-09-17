@@ -1,2 +1,2 @@
-# lawrence-d-lee.github.io
+# amlan-banaji.github.io
 Personal website

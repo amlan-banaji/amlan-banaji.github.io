@@ -9,13 +9,11 @@ redirect_from:
   -
 ---
 
-I'm an EPSRC funded PhD student in mathematics at the University of St Andrews where I am part of the [analysis research group](http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/).
+I am a second year PhD student in mathematics at the University of St Andrews where I am part of the [analysis research group](http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/). My supervisor is [Dr Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/) and my second supervisor is [Professor Kenneth Falconer](http://www.mcs.st-and.ac.uk/~kenneth/). 
 
-My research focuses on fractal geometry, but I'm also interested in dynamical systems and number theory (particularly Diophantine approximation).
+My research focuses on fractal geometry, in particular interpolating between different notions of dimension, and is fully funded by a grant from the Leverhulme Trust. 
 
-I'm supervised by [Professor Kenneth Falconer](http://www.mcs.st-and.ac.uk/~kenneth/) and [Dr Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/).
-
-My Erdös number is 2 (Lee → Vaughan → Erdös).
+I completed my undergraduate degree in mathematics at the University of Cambridge in 2018. I completed a Master’s degree in mathematics at the University of St Andrews in 2019, where I won the Postgraduate Gray Prize (Science and Medicine) for the best taught postgraduate student for the 2018-2019 session based on the Grade Point Average. 
 
 ## Contact details
 
@@ -24,4 +22,4 @@ The University of St Andrews
 St Andrews  
 KY16 9SS  
 Scotland  
-Email: ldl at st dash andrews dot ac.uk
+Email: afb8 "at" st-andrews.ac.uk
