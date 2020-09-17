@@ -6,7 +6,7 @@ author_profile: true
 
 ## Talks
 
-New Intermediate Dimensions
+New Intermediate Dimensions  
 *[University of St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html) (online), 30/6/20*
 
 Ergodic Theory and Conditional Probability  
