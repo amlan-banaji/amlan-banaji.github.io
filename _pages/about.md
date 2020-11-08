@@ -9,7 +9,7 @@ redirect_from:
   -
 ---
 
-I am a second year PhD student in mathematics at the University of St Andrews where I am part of the [analysis research group](http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/). My supervisor is [Dr Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/) and my second supervisor is [Professor Kenneth Falconer](http://www.mcs.st-and.ac.uk/~kenneth/). 
+I am a PhD student in mathematics at the University of St Andrews where I am part of the [analysis research group](http://www.mcs.st-andrews.ac.uk/pg/pure/Analysis/). My supervisor is [Dr Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/) and my second supervisor is [Professor Kenneth Falconer](http://www.mcs.st-and.ac.uk/~kenneth/). I started my PhD in 2019. 
 
 My research focuses on fractal geometry, in particular interpolating between different notions of dimension, and is fully funded by a grant from the Leverhulme Trust. 
 
