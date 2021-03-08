@@ -6,7 +6,7 @@ author_profile: true
 
 ### Research Articles
 
-Generalised intermediate dimensions, [arXiv](https://arxiv.org/abs/2011.08613)    
+1. Generalised intermediate dimensions, [arXiv](https://arxiv.org/abs/2011.08613)    
 *submitted.*
 {: reversed="reversed"}
 ### Master's Dissertation
