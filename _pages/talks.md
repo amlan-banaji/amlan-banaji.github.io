@@ -8,7 +8,7 @@ author_profile: true
 
 
 Intermediate dimensions and infinite conformal iterated function systems  
-*University of Warwick's Dynamics and Group Geometry Early Researchers (DAGGER) Seminar, 1/3/21*
+*[University of Warwick's Dynamics and Group Geometry Early Researchers (DAGGER) Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/dagger), 1/3/21*
 
 
 Interpolating between the Hausdorff and box dimensions  
