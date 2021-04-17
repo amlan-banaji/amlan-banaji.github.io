@@ -6,10 +6,11 @@ author_profile: true
 
 ## Talks
 
+Intermediate dimensions and infinite conformal iterated function systems  
+*Junior Ergodic Theory Seminar (JETS), 19/3/21*
 
 Intermediate dimensions and infinite conformal iterated function systems  
 *[University of Warwick's Dynamics and Group Geometry Early Researchers (DAGGER) Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/dagger), 1/3/21*
-
 
 Interpolating between the Hausdorff and box dimensions  
 *Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews (held online instead of at the Burn House due to COVID-19); I was also a co-organiser of this event, 26/1/21-27/1/21* 
