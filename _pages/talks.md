@@ -6,7 +6,7 @@ author_profile: true
 
 ## Talks
 
-Dimensions of infinitely generated attractors. [Slides (edited)](https://amlan-banaji.github.io/files/AnalysisSeminarApril2021.pdf). [Video](https://www.youtube.com/watch?v=KL6q4UNnVEk)  
+Dimensions of infinitely generated attractors. [Slides (edited)](https://amlan-banaji.github.io/files/AnalysisSeminarApril2021.pdf), [Video](https://www.youtube.com/watch?v=KL6q4UNnVEk)  
 *[University of St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html) (online), 20/4/21*
 
 Intermediate dimensions and infinite conformal iterated function systems. [Slides](https://amlan-banaji.github.io/files/JETStalkMarch2021.pdf)  
