@@ -6,8 +6,11 @@ author_profile: true
 
 ### Research Articles
 
+2. Intermediate dimensions of infinitely generated attractors (with J. M. Fraser), [arxiv](https://arxiv.org/abs/2104.15133)  
+*submitted*
+
 1. Generalised intermediate dimensions, [arXiv](https://arxiv.org/abs/2011.08613)    
-*submitted.*
+*submitted*
 {: reversed="reversed"}
 ### Master's Dissertation
 
