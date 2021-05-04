@@ -9,6 +9,9 @@ author_profile: true
 Dimensions of infinitely generated attractors. [Slides (edited)](https://amlan-banaji.github.io/files/AnalysisSeminarApril2021.pdf), [Video](https://www.youtube.com/watch?v=KL6q4UNnVEk)  
 *[University of St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html) (online), 20/4/21*
 
+Dimensions for infinite iterated function systems  
+*University of St Andrews Pure Postgraduate Seminar (online), 5/4/21*
+
 Intermediate dimensions and infinite conformal iterated function systems. [Slides](https://amlan-banaji.github.io/files/JETStalkMarch2021.pdf)  
 *Junior Ergodic Theory Seminar (JETS) (online), 19/3/21*
 
