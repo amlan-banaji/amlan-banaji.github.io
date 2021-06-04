@@ -6,6 +6,9 @@ author_profile: true
 
 ## Talks
 
+Dimensions of continued fraction sets. [Slides](https://amlan-banaji.github.io/files/Workshop2021.pdf)  
+*[Online Fractal Talks](https://people.maths.bris.ac.uk/~matmj/BBMOS.html), 4/6/21*
+
 Dimensions of infinitely generated attractors. [Slides (edited)](https://amlan-banaji.github.io/files/AnalysisSeminarApril2021.pdf), [Video](https://www.youtube.com/watch?v=KL6q4UNnVEk)  
 *[University of St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html) (online), 20/4/21*
 
