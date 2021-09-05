@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Amlan Banaji"
 title_separator          : "-"
 name                     : &name "Amlan Banaji"
-description              : &description "PhD Student in Mathematics (fractal geometry) at St Andrews"
+description              : &description "PhD Student at the University of St Andrews"
 url                      : https://amlan-banaji.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amlan-banaji.github.io"
@@ -77,7 +77,7 @@ analytics:
 
 
 # Site Author
-author: "Amlan Banaji"
+author:
   name             : ""
   avatar           : "profile.jpg"
   bio              : ""
@@ -303,3 +303,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
