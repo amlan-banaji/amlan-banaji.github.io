@@ -6,6 +6,12 @@ author_profile: true
 
 ## Talks
 
+Dimensions of Bedford-McMullen carpets. [Slides](https://amlan-banaji.github.io/files/BedfordPPS.pdf)  
+*Pure Postgraduate Seminar, University of St Andrews, 15/11/21*
+
+Intermediate dimensions of Bedford-McMullen carpets. [Slides (edited)](https://amlan-banaji.github.io/files/BedfordAnalysisSeminar.pdf), [Video](https://www.youtube.com/watch?v=hoHdg71ycqs)  
+*[University of St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html) (online), 12/10/21*
+
 Dimensions of continued fraction sets. [Slides](https://amlan-banaji.github.io/files/Workshop2021.pdf)  
 *[Online Fractal Talks](https://people.maths.bris.ac.uk/~matmj/BBMOS.html), 4/6/21*
 
@@ -22,19 +28,25 @@ Intermediate dimensions and infinite conformal iterated function systems
 *[University of Warwick's Dynamics and Group Geometry Early Researchers (DAGGER) Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/dagger) (online), 1/3/21*
 
 Interpolating between the Hausdorff and box dimensions. [Slides](https://amlan-banaji.github.io/files/Burn2021Website.pdf)  
-*Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews (held online instead of at the Burn House due to COVID-19); I was also a co-organiser of this event, 26/1/21-27/1/21* 
+*Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews (held online instead of at the Burn House due to COVID-19); I was also a co-organiser of this event, 26/1/21 - 27/1/21* 
 
 New Intermediate Dimensions  
 *[University of St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html) (online), 30/6/20*
 
 Weak Tangents in Dimension Theory  
-*Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), Scotland, 27/1/20-29/1/20*
+*Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), Scotland, 27/1/20 - 29/1/20*
 
 Analysis on some post-critically finite self-similar sets  
 *Pure Postgraduate Seminar, University of St Andrews, 5/11/19*
 
 
 ## Conferences/Meetings Attended
+
+[Dynamics and Geometry Online Summer School](https://heilbronn.ac.uk/2020/12/17/cmi-himr-dynamics-and-geometry-summer-school/)  
+Clay Mathematics Institute and Heilbronn Institute for Mathematical Research (online), 21/6/21 - 2/7/21
+
+[New Frontiers in Dimension Theory of Dynamical Systems](http://mittag-leffler.se/konferens/new-frontiers-dimension-theory-dynamical-systems-applications-metric-number-theory-web)  
+Mittag-Leffler Institute (online), 7/6/21 - 11/6/21
 
 [Afternoon workshop on fractal geometry and geometric measure theory](http://www.mcs.st-andrews.ac.uk/~jmf32/FG19.html)  
 *University of St Andrews, 2/9/19*
