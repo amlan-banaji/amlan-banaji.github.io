@@ -6,7 +6,10 @@ author_profile: true
 
 ### Research Articles
 
-3. Intermediate dimensions of Bedford-McMullen carpets with applications to Lipschitz equivalence (with István Kolossváry), [arXiv](https://arxiv.org/abs/2111.05625)  
+4. Attainable forms of intermediate dimensions (with A. Rutar), [arXiv](https://arxiv.org/abs/2111.14678)  
+*submitted*
+
+3. Intermediate dimensions of Bedford-McMullen carpets with applications to Lipschitz equivalence (with I. Kolossváry), [arXiv](https://arxiv.org/abs/2111.05625)  
 *submitted*
 
 2. Intermediate dimensions of infinitely generated attractors (with J. M. Fraser), [arXiv](https://arxiv.org/abs/2104.15133)  
