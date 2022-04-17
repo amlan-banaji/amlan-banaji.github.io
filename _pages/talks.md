@@ -6,6 +6,12 @@ author_profile: true
 
 ## Talks
 
+History of Bedford-McMullen carpets  
+*Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), Scotland, 11/4/22 - 13/4/22*
+
+Intermediate dimensions  
+*[Junior Ergodic Theory Meeting](https://www.icms.org.uk/workshops/2022/junior-ergodic-theory-meeting), ICMS (Edinburgh), 28/3/22 - 31/3/22*
+
 Dimensions of Bedford-McMullen carpets. [Slides](https://amlan-banaji.github.io/files/BedfordPPS.pdf)  
 *Pure Postgraduate Seminar, University of St Andrews, 15/11/21*
 
@@ -41,6 +47,9 @@ Analysis on some post-critically finite self-similar sets
 
 
 ## Conferences/Meetings Attended
+
+[Probability, Analysis and Dynamics conference](https://people.maths.bris.ac.uk/~mb13434/pad21/)  
+University of Bristol (attended online), 6/4/22 - 8/4/22
 
 [Dynamics and Geometry Online Summer School](https://heilbronn.ac.uk/2020/12/17/cmi-himr-dynamics-and-geometry-summer-school/)  
 Clay Mathematics Institute and Heilbronn Institute for Mathematical Research (online), 21/6/21 - 2/7/21
