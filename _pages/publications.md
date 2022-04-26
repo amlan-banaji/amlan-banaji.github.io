@@ -9,7 +9,7 @@ author_profile: true
 4. Attainable forms of intermediate dimensions (with A. Rutar), [arXiv](https://arxiv.org/abs/2111.14678)  
 *submitted*
 
-3. Intermediate dimensions of Bedford-McMullen carpets with applications to Lipschitz equivalence (with I. Kolossváry), [arXiv](https://arxiv.org/abs/2111.05625)  
+3. Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence (with I. Kolossváry), [arXiv](https://arxiv.org/abs/2111.05625)  
 *submitted*
 
 2. Intermediate dimensions of infinitely generated attractors (with J. M. Fraser), [arXiv](https://arxiv.org/abs/2104.15133)  
@@ -24,6 +24,6 @@ author_profile: true
 
 ### Collaborators
 
-My collaborators are [Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/), [István Kolossváry](http://www.mcs.st-andrews.ac.uk/~itk1/) and [Alex Rutar](https://rutar.org/). 
+My co-authors to date are [Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/), [István Kolossváry](http://www.mcs.st-andrews.ac.uk/~itk1/) and [Alex Rutar](https://rutar.org/). 
 
 {% include base_path %}

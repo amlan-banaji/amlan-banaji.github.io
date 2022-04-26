@@ -6,16 +6,16 @@ author_profile: true
 
 ## Talks
 
-History of Bedford-McMullen carpets  
+History of Bedford–McMullen carpets  
 *Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), Scotland, 11/4/22 - 13/4/22*
 
 Intermediate dimensions  
 *[Junior Ergodic Theory Meeting](https://www.icms.org.uk/workshops/2022/junior-ergodic-theory-meeting), ICMS (Edinburgh), 28/3/22 - 31/3/22*
 
-Dimensions of Bedford-McMullen carpets. [Slides](https://amlan-banaji.github.io/files/BedfordPPS.pdf)  
+Dimensions of Bedford–McMullen carpets. [Slides](https://amlan-banaji.github.io/files/BedfordPPS.pdf)  
 *Pure Postgraduate Seminar, University of St Andrews, 15/11/21*
 
-Intermediate dimensions of Bedford-McMullen carpets. [Slides (edited)](https://amlan-banaji.github.io/files/BedfordAnalysisSeminar.pdf), [Video](https://www.youtube.com/watch?v=hoHdg71ycqs)  
+Intermediate dimensions of Bedford–McMullen carpets. [Slides (edited)](https://amlan-banaji.github.io/files/BedfordAnalysisSeminar.pdf), [Video](https://www.youtube.com/watch?v=hoHdg71ycqs)  
 *[University of St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html) (online), 12/10/21*
 
 Dimensions of continued fraction sets. [Slides](https://amlan-banaji.github.io/files/Workshop2021.pdf)  
