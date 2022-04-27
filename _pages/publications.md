@@ -6,16 +6,16 @@ author_profile: true
 
 ### Research Articles
 
-4. Attainable forms of intermediate dimensions (with A. Rutar), [arXiv](https://arxiv.org/abs/2111.14678)  
+- Attainable forms of intermediate dimensions (with A. Rutar), [arXiv](https://arxiv.org/abs/2111.14678)  
+**Annales Fennici Mathematici** (to appear)
+
+- Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence (with I. Kolossváry), [arXiv](https://arxiv.org/abs/2111.05625)  
 *submitted*
 
-3. Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence (with I. Kolossváry), [arXiv](https://arxiv.org/abs/2111.05625)  
+- Intermediate dimensions of infinitely generated attractors (with J. M. Fraser), [arXiv](https://arxiv.org/abs/2104.15133)  
 *submitted*
 
-2. Intermediate dimensions of infinitely generated attractors (with J. M. Fraser), [arXiv](https://arxiv.org/abs/2104.15133)  
-*submitted*
-
-1. Generalised intermediate dimensions, [arXiv](https://arxiv.org/abs/2011.08613)    
+- Generalised intermediate dimensions, [arXiv](https://arxiv.org/abs/2011.08613)    
 *submitted*
 {: reversed="reversed"}
 ### Master's Dissertation
