@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+These articles are freely available on arXiv - see the links below. 
+
 ### Research Articles
 
 - Attainable forms of intermediate dimensions (with A. Rutar), [arXiv](https://arxiv.org/abs/2111.14678)  
