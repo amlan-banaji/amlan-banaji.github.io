@@ -1,10 +1,13 @@
 ---
-title: "Talks, conferences and posters"
+title: "Talks, posters and conferences"
 permalink: /talks/
 author_profile: true
 ---
 
 ## Talks
+
+Intermediate dimensions of Bedford–McMullen carpets. [Slides](https://amlan-banaji.github.io/files/BedfordBristolWorkshop.pdf)  
+*Lightning talk, [Workshop on affine and overlapping iterated function systems](https://www.mat.univie.ac.at/~troscheit/workshop2022/), University of Bristol, 10/5/22 - 12/5/22*
 
 History of Bedford–McMullen carpets  
 *Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), Scotland, 11/4/22 - 13/4/22*
@@ -45,23 +48,24 @@ Weak Tangents in Dimension Theory
 Analysis on some post-critically finite self-similar sets  
 *Pure Postgraduate Seminar, University of St Andrews, 5/11/19*
 
+## Posters
+
+[Intermediate dimensions of Bedford–McMullen carpets](https://amlan-banaji.github.io/files/BristolCarpetsPoster.pdf)  
+*[Workshop on affine and overlapping iterated function systems](https://www.mat.univie.ac.at/~troscheit/workshop2022/), University of Bristol, 10/5/22 - 12/5/22*
 
 ## Conferences/meetings attended
 
 [Probability, Analysis and Dynamics conference](https://people.maths.bris.ac.uk/~mb13434/pad21/)  
-University of Bristol (attended online), 6/4/22 - 8/4/22
+*University of Bristol (attended online), 6/4/22 - 8/4/22*
 
 [Dynamics and Geometry Online Summer School](https://heilbronn.ac.uk/2020/12/17/cmi-himr-dynamics-and-geometry-summer-school/)  
-Clay Mathematics Institute and Heilbronn Institute for Mathematical Research (online), 21/6/21 - 2/7/21
+*Clay Mathematics Institute and Heilbronn Institute for Mathematical Research (online), 21/6/21 - 2/7/21*
 
 [New Frontiers in Dimension Theory of Dynamical Systems](http://mittag-leffler.se/konferens/new-frontiers-dimension-theory-dynamical-systems-applications-metric-number-theory-web)  
-Mittag-Leffler Institute (online), 7/6/21 - 11/6/21
+*Mittag-Leffler Institute (online), 7/6/21 - 11/6/21*
 
 [Afternoon workshop on fractal geometry and geometric measure theory](http://www.mcs.st-andrews.ac.uk/~jmf32/FG19.html)  
 *University of St Andrews, 2/9/19*
 
-## Posters
 
-[Intermediate dimensions of Bedford–McMullen carpets](https://amlan-banaji.github.io/files/BristolCarpetsPoster.pdf)  
-[Workshop on affine and overlapping iterated function systems](https://www.mat.univie.ac.at/~troscheit/workshop2022/), University of Bristol, 10/5/22 - 12/5/22
 
