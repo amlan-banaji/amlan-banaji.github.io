@@ -8,13 +8,13 @@ These articles are freely available on arXiv - see the links below.
 
 ### Research Articles
 
+- Intermediate dimensions of infinitely generated attractors (with J. M. Fraser), [arXiv](https://arxiv.org/abs/2104.15133)  
+**Transactions of the American Mathematical Society** (to appear)
+
 - Attainable forms of intermediate dimensions (with A. Rutar), [arXiv](https://arxiv.org/abs/2111.14678)  
 **Annales Fennici Mathematici** (to appear)
 
 - Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence (with I. Kolossváry), [arXiv](https://arxiv.org/abs/2111.05625)  
-*submitted*
-
-- Intermediate dimensions of infinitely generated attractors (with J. M. Fraser), [arXiv](https://arxiv.org/abs/2104.15133)  
 *submitted*
 
 - Generalised intermediate dimensions, [arXiv](https://arxiv.org/abs/2011.08613)    
