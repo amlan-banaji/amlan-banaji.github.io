@@ -55,8 +55,20 @@ Analysis on some post-critically finite self-similar sets
 
 ## Conferences/meetings attended
 
+[Geometry of Deterministic and Random Fractals](https://simon60.math.bme.hu/)  
+*Budapest University of Technology and Economics, Hungary, 27/6/22 - 1/7/22*
+
+[Rényi 100 conference](https://conferences.renyi.hu/renyi100/home)  
+*Hungarian Academy of Sciences, Budapest, 20/6/22 - 23/6/22*
+
+[Workshop on affine and overlapping iterated function systems](https://www.mat.univie.ac.at/~troscheit/workshop2022/)  
+*University of Bristol, 10/5/22 - 12/5/22*
+
 [Probability, Analysis and Dynamics conference](https://people.maths.bris.ac.uk/~mb13434/pad21/)  
 *University of Bristol (attended online), 6/4/22 - 8/4/22*
+
+[Junior Ergodic Theory Meeting](https://www.icms.org.uk/workshops/2022/junior-ergodic-theory-meeting)  
+*ICMS (Edinburgh), 28/3/22 - 31/3/22*
 
 [Dynamics and Geometry Online Summer School](https://heilbronn.ac.uk/2020/12/17/cmi-himr-dynamics-and-geometry-summer-school/)  
 *Clay Mathematics Institute and Heilbronn Institute for Mathematical Research (online), 21/6/21 - 2/7/21*
