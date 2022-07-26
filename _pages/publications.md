@@ -8,7 +8,7 @@ These articles are freely available on arXiv - see the links below.
 
 ### Research Articles
 
-- Intermediate dimensions of infinitely generated attractors (with J. M. Fraser), [arXiv](https://arxiv.org/abs/2104.15133)  
+1. Intermediate dimensions of infinitely generated attractors (with J. M. Fraser), [arXiv](https://arxiv.org/abs/2104.15133)  
 **Transactions of the American Mathematical Society** (to appear)
 
 - Attainable forms of intermediate dimensions (with A. Rutar), [arXiv](https://arxiv.org/abs/2111.14678)  
@@ -17,7 +17,10 @@ These articles are freely available on arXiv - see the links below.
 - Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence (with I. Kolossváry), [arXiv](https://arxiv.org/abs/2111.05625)  
 *submitted*
 
-- Generalised intermediate dimensions, [arXiv](https://arxiv.org/abs/2011.08613)    
+- Assouad type dimensions of infinitely generated attractors (with J. M. Fraser), [arXiv](https://arxiv.org/abs/2207.11611)  
+*submitted*
+
+- Generalised intermediate dimensions, [arXiv](https://arxiv.org/abs/2011.08613)  
 *submitted*
 {: reversed="reversed"}
 ### Master's Dissertation
@@ -26,6 +29,6 @@ These articles are freely available on arXiv - see the links below.
 
 ### Collaborators
 
-My co-authors to date are [Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/), [István Kolossváry](http://www.mcs.st-andrews.ac.uk/~itk1/) and [Alex Rutar](https://rutar.org/). 
+My co-authors to date are [Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/) (2), [István Kolossváry](http://www.mcs.st-andrews.ac.uk/~itk1/) (1) and [Alex Rutar](https://rutar.org/) (1). 
 
 {% include base_path %}

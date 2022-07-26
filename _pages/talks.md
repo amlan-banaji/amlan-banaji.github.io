@@ -6,8 +6,17 @@ author_profile: true
 
 ## Talks
 
+Dimensions of infinitely generated self-conformal sets. [Slides](https://amlan-banaji.github.io/files/Budapest2022.pdf)  
+*[Geometry of Deterministic and Random Fractals](https://simon60.math.bme.hu/), Budapest University of Technology and Economics, Hungary, 30/6/22*
+
+Dimensions of infinitely generated self-conformal sets. [Slides](https://amlan-banaji.github.io/files/Warwick2022.pdf)  
+*[University of Warwick's Dynamics and Group Geometry Early Researchers (DAGGER) Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/dagger), 30/5/22*
+
 Intermediate dimensions of Bedford–McMullen carpets. [Slides](https://amlan-banaji.github.io/files/BedfordBristolWorkshop.pdf)  
-*Lightning talk, [Workshop on affine and overlapping iterated function systems](https://www.mat.univie.ac.at/~troscheit/workshop2022/), University of Bristol, 10/5/22 - 12/5/22*
+*Lightning talk, [Workshop on affine and overlapping iterated function systems](https://www.mat.univie.ac.at/~troscheit/workshop2022/), University of Bristol, 11/5/22*
+
+Assouad spectrum of infinitely generated self-conformal sets.  
+*[University of St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html), 3/5/22*
 
 History of Bedford–McMullen carpets  
 *Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), Scotland, 11/4/22 - 13/4/22*
