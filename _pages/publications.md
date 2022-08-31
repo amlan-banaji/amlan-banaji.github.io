@@ -15,7 +15,7 @@ These articles are freely available on arXiv - see the links below.
 **Annales Fennici Mathematici** 47 (2022) 939–960.
 
 3. Metric Spaces where Geodesics are Never Unique, [pdf](https://amlan-banaji.github.io/files/Multigeodesic.pdf)  
-*Provisionally accepted for publication in The American Mathematical Monthly*
+*Provisionally accepted for publication in the American Mathematical Monthly*
 
 4. Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence (with I. Kolossváry), [arXiv](https://arxiv.org/abs/2111.05625)  
 *submitted*
