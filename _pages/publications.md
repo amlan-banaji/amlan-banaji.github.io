@@ -14,13 +14,16 @@ These articles are freely available on arXiv - see the links below.
 2. Attainable forms of intermediate dimensions (with A. Rutar), [arXiv](https://arxiv.org/abs/2111.14678)  
 **Annales Fennici Mathematici** 47 (2022) 939–960.
 
-3. Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence (with I. Kolossváry), [arXiv](https://arxiv.org/abs/2111.05625)  
+3. Metric Spaces where Geodesics are Never Unique, [pdf](https://amlan-banaji.github.io/files/Multigeodesic.pdf)  
+*Provisionally accepted for publication in The American Mathematical Monthly*
+
+4. Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence (with I. Kolossváry), [arXiv](https://arxiv.org/abs/2111.05625)  
 *submitted*
 
-4. Assouad type dimensions of infinitely generated attractors (with J. M. Fraser), [arXiv](https://arxiv.org/abs/2207.11611)  
+5. Assouad type dimensions of infinitely generated attractors (with J. M. Fraser), [arXiv](https://arxiv.org/abs/2207.11611)  
 *submitted*
 
-5. Generalised intermediate dimensions, [arXiv](https://arxiv.org/abs/2011.08613)  
+6. Generalised intermediate dimensions, [arXiv](https://arxiv.org/abs/2011.08613)  
 *submitted*
 {: reversed="reversed"}
 ### Master's Dissertation
