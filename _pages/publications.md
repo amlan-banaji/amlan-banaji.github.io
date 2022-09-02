@@ -14,8 +14,8 @@ These articles are freely available on arXiv - see the links below.
 2. Attainable forms of intermediate dimensions (with A. Rutar), [arXiv](https://arxiv.org/abs/2111.14678)  
 **Annales Fennici Mathematici** 47 (2022) 939–960.
 
-3. Metric Spaces where Geodesics are Never Unique, [pdf](https://amlan-banaji.github.io/files/Multigeodesic.pdf)  
-*Provisionally accepted for publication in the American Mathematical Monthly*
+3. Metric Spaces where Geodesics are Never Unique, [arXiv](https://arxiv.org/abs/2209.00598)  
+**American Mathematical Monthly** (to appear) 
 
 4. Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence (with I. Kolossváry), [arXiv](https://arxiv.org/abs/2111.05625)  
 *submitted*
