@@ -6,6 +6,9 @@ author_profile: true
 
 ## Talks
 
+Intermediate dimensions of Bedford–McMullen carpets. [Slides](https://amlan-banaji.github.io/files/Porquerolles2022.pdf)  
+*[Fractals and Related Fields IV](https://farf4.math.cnrs.fr/), Porquerolles, France, 5/9/22*
+
 Dimensions of infinitely generated self-conformal sets. [Slides](https://amlan-banaji.github.io/files/Budapest2022.pdf)  
 *[Geometry of Deterministic and Random Fractals](https://simon60.math.bme.hu/), Budapest University of Technology and Economics, Hungary, 30/6/22*
 
@@ -63,6 +66,9 @@ Analysis on some post-critically finite self-similar sets
 *[Workshop on affine and overlapping iterated function systems](https://www.mat.univie.ac.at/~troscheit/workshop2022/), University of Bristol, 10/5/22 - 12/5/22*
 
 ## Conferences/meetings attended
+
+[Fractals and Related Fields IV](https://farf4.math.cnrs.fr/)  
+Porquerolles, France, 3/9/22 - 9/9/22*
 
 [Geometry of Deterministic and Random Fractals](https://simon60.math.bme.hu/)  
 *Budapest University of Technology and Economics, Hungary, 27/6/22 - 1/7/22*
