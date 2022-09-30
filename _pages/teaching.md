@@ -9,6 +9,9 @@ author_profile: true
 
 ## Teaching (undergraduate tutorials) at the University of St Andrews
 
+### 2022 - 2023
+Tutor for MT2502 Analysis (two groups), Autumn.
+
 ### 2021 - 2022
 Tutor for MT2502 Analysis (two groups), Autumn.
 
