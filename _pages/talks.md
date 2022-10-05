@@ -6,6 +6,9 @@ author_profile: true
 
 ## Talks
 
+Metric spaces where geodesics are never unique  
+*Pure Postgraduate Seminar, University of St Andrews, 5/10/22*
+
 Intermediate dimensions of Bedford–McMullen carpets. [Slides](https://amlan-banaji.github.io/files/Porquerolles2022.pdf)  
 *[Fractals and Related Fields IV](https://farf4.math.cnrs.fr/), Porquerolles, France, 5/9/22*
 
