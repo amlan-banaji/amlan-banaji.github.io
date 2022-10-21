@@ -19,7 +19,7 @@ Dimensions of infinitely generated self-conformal sets. [Slides](https://amlan-b
 *[University of Warwick's Dynamics and Group Geometry Early Researchers (DAGGER) Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/dagger), 30/5/22*
 
 Intermediate dimensions of Bedford–McMullen carpets. [Slides](https://amlan-banaji.github.io/files/BedfordBristolWorkshop.pdf)  
-*Lightning talk, [Workshop on affine and overlapping iterated function systems](https://www.mat.univie.ac.at/~troscheit/workshop2022/), University of Bristol, 11/5/22*
+*Lightning talk, [Workshop on affine and overlapping iterated function systems](https://www.troscheit.eu/workshop2022/index.html), University of Bristol, 11/5/22*
 
 Assouad spectrum of infinitely generated self-conformal sets.  
 *[University of St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html), 3/5/22*
@@ -66,12 +66,12 @@ Analysis on some post-critically finite self-similar sets
 ## Posters
 
 [Intermediate dimensions of Bedford–McMullen carpets](https://amlan-banaji.github.io/files/BristolCarpetsPoster.pdf)  
-*[Workshop on affine and overlapping iterated function systems](https://www.mat.univie.ac.at/~troscheit/workshop2022/), University of Bristol, 10/5/22 - 12/5/22*
+*[Workshop on affine and overlapping iterated function systems](https://www.troscheit.eu/workshop2022/index.html), University of Bristol, 10/5/22 - 12/5/22*
 
 ## Conferences/meetings attended
 
 [Fractals and Related Fields IV](https://farf4.math.cnrs.fr/)  
-Porquerolles, France, 3/9/22 - 9/9/22*
+*Porquerolles, France, 3/9/22 - 9/9/22*
 
 [Geometry of Deterministic and Random Fractals](https://simon60.math.bme.hu/)  
 *Budapest University of Technology and Economics, Hungary, 27/6/22 - 1/7/22*
@@ -79,7 +79,7 @@ Porquerolles, France, 3/9/22 - 9/9/22*
 [Rényi 100 conference](https://conferences.renyi.hu/renyi100/home)  
 *Hungarian Academy of Sciences, Budapest, 20/6/22 - 23/6/22*
 
-[Workshop on affine and overlapping iterated function systems](https://www.mat.univie.ac.at/~troscheit/workshop2022/)  
+[Workshop on affine and overlapping iterated function systems](https://www.troscheit.eu/workshop2022/index.html)  
 *University of Bristol, 10/5/22 - 12/5/22*
 
 [Probability, Analysis and Dynamics conference](https://people.maths.bris.ac.uk/~mb13434/pad21/)  
