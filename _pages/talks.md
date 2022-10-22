@@ -6,6 +6,9 @@ author_profile: true
 
 ## Talks
 
+Intermediate dimensions  
+*Inaugural talk, [Szenzhen Technology University Mathematics Colloquium](https://bdi.sztu.edu.cn/info/1345/5449.htm?fbclid=IwAR24TwwWZpz-LjUtDVF4E49awaOp44hBmeUaLuShGPFC1-F0RLac02d1_as), China (online), 21/10/22*
+
 Metric spaces where geodesics are never unique  
 *Pure Postgraduate Seminar, University of St Andrews, 5/10/22*
 
