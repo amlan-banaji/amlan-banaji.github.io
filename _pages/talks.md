@@ -28,10 +28,10 @@ Assouad spectrum of infinitely generated self-conformal sets.
 *[University of St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html), 3/5/22*
 
 History of Bedford–McMullen carpets  
-*Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), Scotland, 11/4/22 - 13/4/22*
+*Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), Scotland, 13/4/22*
 
 Intermediate dimensions  
-*[Junior Ergodic Theory Meeting](https://www.icms.org.uk/workshops/2022/junior-ergodic-theory-meeting), ICMS (Edinburgh), 28/3/22 - 31/3/22*
+*[Junior Ergodic Theory Meeting](https://www.icms.org.uk/workshops/2022/junior-ergodic-theory-meeting), ICMS (Edinburgh), 30/3/22*
 
 Dimensions of Bedford–McMullen carpets. [Slides](https://amlan-banaji.github.io/files/BedfordPPS.pdf)  
 *Pure Postgraduate Seminar, University of St Andrews, 15/11/21*
@@ -55,13 +55,13 @@ Intermediate dimensions and infinite conformal iterated function systems
 *[University of Warwick's Dynamics and Group Geometry Early Researchers (DAGGER) Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/dagger) (online), 1/3/21*
 
 Interpolating between the Hausdorff and box dimensions. [Slides](https://amlan-banaji.github.io/files/Burn2021Website.pdf)  
-*Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews (held online instead of at the Burn House due to COVID-19); I was also a co-organiser of this event, 26/1/21 - 27/1/21* 
+*Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews (held online instead of at the Burn House due to COVID-19); I was also a co-organiser of this event, 26/1/21* 
 
 New Intermediate Dimensions  
 *[University of St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html) (online), 30/6/20*
 
 Weak Tangents in Dimension Theory  
-*Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), Scotland, 27/1/20 - 29/1/20*
+*Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), Scotland, 28/1/20*
 
 Analysis on some post-critically finite self-similar sets  
 *Pure Postgraduate Seminar, University of St Andrews, 5/11/19*
