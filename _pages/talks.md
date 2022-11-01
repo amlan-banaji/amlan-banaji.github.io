@@ -6,6 +6,9 @@ author_profile: true
 
 ## Talks
 
+Metric spaces where geodesics are never unique  
+*[St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html), 1/11/22*
+
 Intermediate dimensions  
 *Inaugural talk, [Szenzhen Technology University Mathematics Colloquium](https://bdi.sztu.edu.cn/info/1345/5449.htm?fbclid=IwAR24TwwWZpz-LjUtDVF4E49awaOp44hBmeUaLuShGPFC1-F0RLac02d1_as), China (online), 21/10/22*
 
@@ -25,7 +28,7 @@ Intermediate dimensions of Bedford–McMullen carpets. [Slides](https://amlan-ba
 *Lightning talk, [Workshop on affine and overlapping iterated function systems](https://www.troscheit.eu/workshop2022/index.html), University of Bristol, 11/5/22*
 
 Assouad spectrum of infinitely generated self-conformal sets.  
-*[University of St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html), 3/5/22*
+*[St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html), 3/5/22*
 
 History of Bedford–McMullen carpets  
 *Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), Scotland, 13/4/22*
@@ -37,16 +40,16 @@ Dimensions of Bedford–McMullen carpets. [Slides](https://amlan-banaji.github.i
 *Pure Postgraduate Seminar, University of St Andrews, 15/11/21*
 
 Intermediate dimensions of Bedford–McMullen carpets. [Slides (edited)](https://amlan-banaji.github.io/files/BedfordAnalysisSeminar.pdf), [Video](https://www.youtube.com/watch?v=hoHdg71ycqs)  
-*[University of St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html) (online), 12/10/21*
+*[St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html) (online), 12/10/21*
 
 Dimensions of continued fraction sets. [Slides](https://amlan-banaji.github.io/files/Workshop2021.pdf)  
 *[Online Fractal Talks](https://people.maths.bris.ac.uk/~matmj/BBMOS.html), 4/6/21*
 
 Dimensions of infinitely generated attractors. [Slides (edited)](https://amlan-banaji.github.io/files/AnalysisSeminarApril2021.pdf), [Video](https://www.youtube.com/watch?v=KL6q4UNnVEk)  
-*[University of St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html) (online), 20/4/21*
+*[St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html) (online), 20/4/21*
 
 Dimensions for infinite iterated function systems  
-*University of St Andrews Pure Postgraduate Seminar (online), 5/4/21*
+*Pure Postgraduate Seminar (online), University of St Andrews, 5/4/21*
 
 Intermediate dimensions and infinite conformal iterated function systems. [Slides](https://amlan-banaji.github.io/files/JETStalkMarch2021.pdf)  
 *Junior Ergodic Theory Seminar (JETS) (online), 19/3/21*
@@ -58,7 +61,7 @@ Interpolating between the Hausdorff and box dimensions. [Slides](https://amlan-b
 *Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews (held online instead of at the Burn House due to COVID-19); I was also a co-organiser of this event, 26/1/21* 
 
 New Intermediate Dimensions  
-*[University of St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html) (online), 30/6/20*
+*[St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html) (online), 30/6/20*
 
 Weak Tangents in Dimension Theory  
 *Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), Scotland, 28/1/20*
