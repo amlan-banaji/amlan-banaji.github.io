@@ -6,6 +6,9 @@ author_profile: true
 
 ## Talks
 
+Metric spaces where geodesics are never unique. [Slides (edited)](https://amlan-banaji.github.io/files/Geodesics2022.pdf)  
+*Mathematics Research Day, University of St Andrews, 1/12/22*
+
 Metric spaces where geodesics are never unique  
 *[St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html), 1/11/22*
 
