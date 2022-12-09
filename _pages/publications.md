@@ -17,7 +17,7 @@ These articles are freely available on arXiv - see the links below.
 3. Metric Spaces where Geodesics are Never Unique, [arXiv](https://arxiv.org/abs/2209.00598)  
 **American Mathematical Monthly** (to appear) 
 
-4. Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence (with I. Kolossváry), [arXiv](https://arxiv.org/abs/2111.05625)  
+4. Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence (with I. Kolossváry), [arXiv](https://arxiv.org/abs/2111.05625), [poster](https://amlan-banaji.github.io/files/BristolCarpetsPoster.pdf)  
 *submitted*
 
 5. Assouad type dimensions of infinitely generated attractors (with J. M. Fraser), [arXiv](https://arxiv.org/abs/2207.11611)  

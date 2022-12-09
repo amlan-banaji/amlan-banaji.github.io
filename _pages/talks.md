@@ -6,6 +6,9 @@ author_profile: true
 
 ## Talks
 
+The popcorn function  
+*Pure Postgraduate Research Day, University of St Andrews, 8/12/22*
+
 Metric spaces where geodesics are never unique. [Slides (edited)](https://amlan-banaji.github.io/files/Geodesics2022.pdf)  
 *Mathematics Research Day, University of St Andrews, 1/12/22*
 
