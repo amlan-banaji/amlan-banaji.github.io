@@ -25,6 +25,9 @@ These articles are freely available on arXiv - see the links below.
 
 6. Generalised intermediate dimensions, [arXiv](https://arxiv.org/abs/2011.08613)  
 *submitted*
+
+7. Dimensions of popcorn-like pyramid sets (with H. Chen), [arXiv](https://arxiv.org/abs/2212.06961)  
+*submitted*
 {: reversed="reversed"}
 ### Master's Dissertation
 
@@ -32,6 +35,6 @@ These articles are freely available on arXiv - see the links below.
 
 ### Collaborators
 
-My co-authors to date are [Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/) (2), [István Kolossváry](http://www.mcs.st-andrews.ac.uk/~itk1/) (1) and [Alex Rutar](https://rutar.org/) (1). 
+My co-authors to date are [Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/) (2), [Haipeng Chen (Clarence)](https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage) (1), [István Kolossváry](http://www.mcs.st-andrews.ac.uk/~itk1/) (1), [Alex Rutar](https://rutar.org/) (1). 
 
 {% include base_path %}
