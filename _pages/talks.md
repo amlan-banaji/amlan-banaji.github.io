@@ -6,12 +6,6 @@ author_profile: true
 
 ## Talks
 
-25. Dimensions of self-affine carpets.  
-*[One World Fractals Seminar](https://www.troscheit.eu/OneWorld/), 18/1/23*
-
-24. Orthogonal projections of fractals and the digital sundial. [Slides](https://amlan-banaji.github.io/files/Burn2023.pdf)  
-*Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), Scotland, 16/1/23*
-
 23. The popcorn function  
 *Pure Postgraduate Research Day, University of St Andrews, 8/12/22*
 
