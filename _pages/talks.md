@@ -6,7 +6,7 @@ author_profile: true
 
 ## Talks
 
-25. Dimensions of self-affine carpets.  
+25. Dimensions of self-affine carpets  
 *[One World Fractals Seminar](https://www.troscheit.eu/OneWorld/), 18/1/23*
 
 24. Orthogonal projections of fractals and the digital sundial. [Slides](https://amlan-banaji.github.io/files/Burn2023.pdf)  
