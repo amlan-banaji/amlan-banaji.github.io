@@ -20,6 +20,7 @@ I completed my undergraduate degree in mathematics at the University of Cambridg
 Mathematical Sciences  
 Schofield Building  
 Loughborough University  
-Loughborough,  LE11 3TU, UK
+Loughborough,  LE11 3TU
+United Kingdom
 
 Email: A.F.Banaji "at" lboro.ac.uk
