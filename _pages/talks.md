@@ -7,7 +7,7 @@ author_profile: true
 ## Talks
 
 25. Dimensions of self-affine carpets  
-*[One World Fractals](https://www.troscheit.eu/OneWorld/), 18/1/23*
+*[One World Fractals](https://www.troscheit.eu/OneWorld/past.html), 18/1/23*
 
 24. Orthogonal projections of fractals and the digital sundial. [Slides](https://amlan-banaji.github.io/files/Burn2023.pdf)  
 *Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), Scotland, 16/1/23*
@@ -21,7 +21,7 @@ author_profile: true
 21. Metric spaces where geodesics are never unique  
 *[St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html), 1/11/22*
 
-20. Intermediate dimensions  
+20. Intermediate dimensions. [Slides](https://amlan-banaji.github.io/files/Shenzhen2022.pdf)  
 *Inaugural talk, [Szenzhen Technology University Mathematics Colloquium](https://bdi.sztu.edu.cn/info/1345/5449.htm?fbclid=IwAR24TwwWZpz-LjUtDVF4E49awaOp44hBmeUaLuShGPFC1-F0RLac02d1_as), China (online), 21/10/22*
 
 19. Metric spaces where geodesics are never unique  
@@ -72,10 +72,10 @@ author_profile: true
 4. Interpolating between the Hausdorff and box dimensions. [Slides](https://amlan-banaji.github.io/files/Burn2021Website.pdf)  
 *Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews (held online instead of at the Burn House due to COVID-19); I was also a co-organiser of this event, 26/1/21* 
 
-3. New Intermediate Dimensions  
+3. New intermediate dimensions  
 *[St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html) (online), 30/6/20*
 
-2. Weak Tangents in Dimension Theory  
+2. Weak tangents in dimension theory  
 *Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), Scotland, 28/1/20*
 
 1. Analysis on some post-critically finite self-similar sets  
