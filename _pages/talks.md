@@ -6,6 +6,9 @@ author_profile: true
 
 ## Talks
 
+26. Dimensions of infinitely generated self-conformal sets  
+*[University of Edinburgh Analysis Seminar](https://blogs.ed.ac.uk/analysis/analysis-seminar/), 13/3/23*
+
 25. Dimensions of self-affine carpets  
 *[One World Fractals](https://www.troscheit.eu/OneWorld/past.html), 18/1/23*
 
