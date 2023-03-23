@@ -6,6 +6,9 @@ author_profile: true
 
 ## Talks
 
+27. Recovering the interpolation between dimensions  
+*[St Andrews Analysis Seminar](http://www-maths.mcs.st-andrews.ac.uk/pg/pure/Analysis/seminars.html), 22/3/23*
+
 26. Dimensions of infinitely generated self-conformal sets  
 *[University of Edinburgh Analysis Seminar](https://blogs.ed.ac.uk/analysis/analysis-seminar/), 13/3/23*
 
