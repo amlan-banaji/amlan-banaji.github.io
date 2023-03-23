@@ -35,6 +35,6 @@ These articles are freely available on arXiv - see the links below.
 
 ### Collaborators
 
-My co-authors to date are [Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/) (2), [Haipeng Chen (Clarence)](https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage) (1), [István Kolossváry](http://www.mcs.st-andrews.ac.uk/~itk1/) (1), [Alex Rutar](https://rutar.org/) (1). 
+My co-authors to date are [Jonathan Fraser](https://jonathan-fraser.github.io/homepage/) (2), [Haipeng Chen (Clarence)](https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage) (1), [István Kolossváry](https://www.st-andrews.ac.uk/mathematics-statistics/people/itk1/) (1), [Alex Rutar](https://rutar.org/) (1). 
 
 {% include base_path %}
