@@ -7,22 +7,22 @@ author_profile: true
 ## Talks
 
 27. Recovering the interpolation between dimensions  
-*[St Andrews Analysis Seminar](https://analysis.rutar.org/seminars/), 22/3/23*
+*[St Andrews Analysis Seminar](https://analysis.rutar.org/seminars/), UK, 22/3/23*
 
 26. Dimensions of infinitely generated self-conformal sets  
-*[University of Edinburgh Analysis Seminar](https://blogs.ed.ac.uk/analysis/analysis-seminar/), 13/3/23*
+*[University of Edinburgh Analysis Seminar](https://blogs.ed.ac.uk/analysis/analysis-seminar/), UK, 13/3/23*
 
 25. Dimensions of self-affine carpets  
-*[One World Fractals](https://www.troscheit.eu/OneWorld/past.html), 18/1/23*
+*[One World Fractals](https://www.troscheit.eu/OneWorld/past.html) (online), 18/1/23*
 
 24. Orthogonal projections of fractals and the digital sundial. [Slides](https://amlan-banaji.github.io/files/Burn2023.pdf)  
-*Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), Scotland, 16/1/23*
+*Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), UK, 16/1/23*
 
 23. The popcorn function  
-*Pure Postgraduate Research Day, University of St Andrews, 8/12/22*
+*Pure Postgraduate Research Day, University of St Andrews, UK, 8/12/22*
 
 22. Metric spaces where geodesics are never unique. [Slides (edited)](https://amlan-banaji.github.io/files/Geodesics2022.pdf)  
-*Mathematics Research Day, University of St Andrews, 1/12/22*
+*Mathematics Research Day, University of St Andrews, UK, 1/12/22*
 
 21. Metric spaces where geodesics are never unique  
 *[St Andrews Analysis Seminar](https://analysis.rutar.org/seminars/), 1/11/22*
@@ -31,7 +31,7 @@ author_profile: true
 *Inaugural talk, [Szenzhen Technology University Mathematics Colloquium](https://bdi.sztu.edu.cn/info/1345/5449.htm?fbclid=IwAR24TwwWZpz-LjUtDVF4E49awaOp44hBmeUaLuShGPFC1-F0RLac02d1_as), China (online), 21/10/22*
 
 19. Metric spaces where geodesics are never unique  
-*Pure Postgraduate Seminar, University of St Andrews, 5/10/22*
+*Pure Postgraduate Seminar, University of St Andrews, UK, 5/10/22*
 
 18. Intermediate dimensions of Bedford–McMullen carpets. [Slides](https://amlan-banaji.github.io/files/Porquerolles2022.pdf)  
 *[Fractals and Related Fields IV](https://farf4.math.cnrs.fr/), Porquerolles, France, 5/9/22*
@@ -40,22 +40,22 @@ author_profile: true
 *[Geometry of Deterministic and Random Fractals](https://simon60.math.bme.hu/), Budapest University of Technology and Economics, Hungary, 30/6/22*
 
 16. Dimensions of infinitely generated self-conformal sets. [Slides](https://amlan-banaji.github.io/files/Warwick2022.pdf)  
-*[University of Warwick's Dynamics and Group Geometry Early Researchers (DAGGER) Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/dagger), 30/5/22*
+*[University of Warwick's Dynamics and Group Geometry Early Researchers (DAGGER) Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/dagger), UK, 30/5/22*
 
 15. Intermediate dimensions of Bedford–McMullen carpets. [Slides](https://amlan-banaji.github.io/files/BedfordBristolWorkshop.pdf)  
-*Lightning talk, [Workshop on affine and overlapping iterated function systems](https://www.troscheit.eu/workshop2022/index.html), University of Bristol, 11/5/22*
+*Lightning talk, [Workshop on affine and overlapping iterated function systems](https://www.troscheit.eu/workshop2022/index.html), University of Bristol, UK, 11/5/22*
 
 14. Assouad spectrum of infinitely generated self-conformal sets.  
-*[St Andrews Analysis Seminar](https://analysis.rutar.org/seminars/), 3/5/22*
+*[St Andrews Analysis Seminar](https://analysis.rutar.org/seminars/), UK, 3/5/22*
 
 13. History of Bedford–McMullen carpets  
-*Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), Scotland, 13/4/22*
+*Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), UK, 13/4/22*
 
 12. Intermediate dimensions  
-*[Junior Ergodic Theory Meeting](https://www.icms.org.uk/workshops/2022/junior-ergodic-theory-meeting), ICMS (Edinburgh), 30/3/22*
+*[Junior Ergodic Theory Meeting](https://www.icms.org.uk/workshops/2022/junior-ergodic-theory-meeting), ICMS (Edinburgh, UK), 30/3/22*
 
 11. Dimensions of Bedford–McMullen carpets. [Slides](https://amlan-banaji.github.io/files/BedfordPPS.pdf)  
-*Pure Postgraduate Seminar, University of St Andrews, 15/11/21*
+*Pure Postgraduate Seminar, University of St Andrews, UK, 15/11/21*
 
 10. Intermediate dimensions of Bedford–McMullen carpets. [Slides (edited)](https://amlan-banaji.github.io/files/BedfordAnalysisSeminar.pdf), [Video](https://www.youtube.com/watch?v=hoHdg71ycqs)  
 *[St Andrews Analysis Seminar](https://analysis.rutar.org/seminars/) (online), 12/10/21*
@@ -82,20 +82,23 @@ author_profile: true
 *[St Andrews Analysis Seminar](https://analysis.rutar.org/seminars/) (online), 30/6/20*
 
 2. Weak tangents in dimension theory  
-*Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), Scotland, 28/1/20*
+*Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), UK, 28/1/20*
 
 1. Analysis on some post-critically finite self-similar sets  
-*Pure Postgraduate Seminar, University of St Andrews, 5/11/19*
+*Pure Postgraduate Seminar, University of St Andrews, UK, 5/11/19*
 {: reversed="reversed"}
 ## Posters
 
 1. [Intermediate dimensions of Bedford–McMullen carpets](https://amlan-banaji.github.io/files/BristolCarpetsPoster.pdf)  
-*[Workshop on affine and overlapping iterated function systems](https://www.troscheit.eu/workshop2022/index.html), University of Bristol, 10/5/22 - 12/5/22*
+*[Workshop on affine and overlapping iterated function systems](https://www.troscheit.eu/workshop2022/index.html), University of Bristol, UK, 10/5/22 - 12/5/22*
 {: reversed="reversed"}
 ## Conferences/meetings attended
 
+11. [Ergodic Theory of Group Extensions](https://warwick.ac.uk/fac/sci/maths/research/events/2022-2023/ergodictheoryofgroupextensions/)  
+*University of Warwick, UK, 27/3/23 - 30/3/23*
+
 10. [Statistical and Computational Aspects of Dynamics](http://www.crm.sns.it/event/507/)  
-*Centro De Giorgi, Pisa, Italy, 13/12/22 - 16/12/22*
+*Centro De Giorgi, Italy, 13/12/22 - 16/12/22*
 
 9. [Fractals and Related Fields IV](https://farf4.math.cnrs.fr/)  
 *Porquerolles, France, 3/9/22 - 9/9/22*
@@ -104,16 +107,16 @@ author_profile: true
 *Budapest University of Technology and Economics, Hungary, 27/6/22 - 1/7/22*
 
 7. [Rényi 100 conference](https://conferences.renyi.hu/renyi100/home)  
-*Hungarian Academy of Sciences, Budapest, 20/6/22 - 23/6/22*
+*Hungarian Academy of Sciences, Hungary, 20/6/22 - 23/6/22*
 
 6. [Workshop on affine and overlapping iterated function systems](https://www.troscheit.eu/workshop2022/index.html)  
-*University of Bristol, 10/5/22 - 12/5/22*
+*University of Bristol, UK, 10/5/22 - 12/5/22*
 
 5. [Probability, Analysis and Dynamics conference](https://people.maths.bris.ac.uk/~mb13434/pad21/)  
 *University of Bristol (attended online), 6/4/22 - 8/4/22*
 
 4. [Junior Ergodic Theory Meeting](https://www.icms.org.uk/workshops/2022/junior-ergodic-theory-meeting)  
-*ICMS (Edinburgh), 28/3/22 - 31/3/22*
+*ICMS (Edinburgh, UK), 28/3/22 - 31/3/22*
 
 3. [Dynamics and Geometry Online Summer School](https://heilbronn.ac.uk/2020/12/17/cmi-himr-dynamics-and-geometry-summer-school/)  
 *Clay Mathematics Institute and Heilbronn Institute for Mathematical Research (online), 21/6/21 - 2/7/21*
@@ -122,7 +125,7 @@ author_profile: true
 *Mittag-Leffler Institute (online), 7/6/21 - 11/6/21*
 
 1. [Afternoon workshop on fractal geometry and geometric measure theory](https://jonathan-fraser.github.io/homepage/FG19.html)  
-*University of St Andrews, 2/9/19*
+*University of St Andrews, UK, 2/9/19*
 {: reversed="reversed"}
 
 {% include base_path %}
