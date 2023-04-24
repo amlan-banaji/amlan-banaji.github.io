@@ -6,6 +6,9 @@ author_profile: true
 
 ## Talks
 
+28. Dimensions of infinitely generated self-conformal sets  
+*[University of Bristol Ergodic Theory and Dynamical Systems Seminar](https://www.bristolmathsresearch.org/seminar/amlan-banaji/), UK, 13/3/23*
+
 27. Recovering the interpolation between dimensions  
 *[St Andrews Analysis Seminar](https://analysis.rutar.org/seminars/), UK, 22/3/23*
 
