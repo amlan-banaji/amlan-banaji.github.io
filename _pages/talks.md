@@ -49,7 +49,6 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a 
 
 1. Dimensions of infinitely generated attractors. [Slides (edited)](https://amlan-banaji.github.io/files/AnalysisSeminarApril2021.pdf), [Video](https://www.youtube.com/watch?v=KL6q4UNnVEk)  
 *[St Andrews Analysis Seminar](https://analysis.rutar.org/seminars/) (online), 20/4/21*
-
 {: reversed="reversed"}
 ## Posters
 
@@ -63,7 +62,7 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiConferences.pdf) 
 I plan to attend the following upcoming conferences. 
 
 4. [Fractal Geometry](https://www.icms.org.uk/workshops/2023/fractal-geometry) (celebrating Prof. Kenneth Falconer's 70th birthday)  
-*ICMS, Edinburgh, UK, 3/7/23 - 7/7/23
+*ICMS, Edinburgh, UK, 3/7/23 - 7/7/23*
 
 3. [Multifractal analysis and self-similarity](https://conferences.cirm-math.fr/2751.html)  
 *CIRM, Luminy Marseille, France, 26/6/23 - 30/6/23*
@@ -73,8 +72,6 @@ I plan to attend the following upcoming conferences.
 
 1. [Dynamics Conference](https://www.math.uzh.ch/zdc23/index.php?id=130)  
 *Zurich, Switzerland, 12/6/23 - 16/6/23*
-
-
 {: reversed="reversed"}
 
 {% include base_path %}
