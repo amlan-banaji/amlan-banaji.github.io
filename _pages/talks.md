@@ -8,6 +8,9 @@ author_profile: true
 
 Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a more complete list of the 30+ mathematical talks I have given. 
 
+15. Fourier decay of non-linear images of self-similar measures  
+*[Diophantine Approximation, Dynamics, and Fractals](https://sites.google.com/view/diophantine-exeter-june-2023/home), Exeter, UK, 22/6/23*
+
 14. Dimensions of continued fraction sets  
 *[Thermodynamic Formalism: Non-additive Aspects and Related Topics](https://www.impan.pl/en/activities/banach-center/conferences/23-thermoform), Będlewo, Poland, 16/5/23*
 
@@ -58,20 +61,14 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a 
 
 ## Conferences 
 
-Please click [here](https://amlan-banaji.github.io/files/BanajiConferences.pdf) for a list of past conferences which I have attended. 
-I plan to attend the following upcoming conferences. 
+Please click [here](https://amlan-banaji.github.io/files/BanajiConferences.pdf) for a list of the 10+ mathematical conferences which I have attended. 
+I plan to attend the following upcoming conferences: 
 
-4. [Fractal Geometry](https://www.icms.org.uk/workshops/2023/fractal-geometry) (celebrating Prof. Kenneth Falconer's 70th birthday)  
+2. [Fractal Geometry](https://www.icms.org.uk/workshops/2023/fractal-geometry) (celebrating Prof. Kenneth Falconer's 70th birthday)  
 *ICMS, Edinburgh, UK, 3/7/23 - 7/7/23*
 
-3. [Multifractal analysis and self-similarity](https://conferences.cirm-math.fr/2751.html)  
+1. [Multifractal analysis and self-similarity](https://conferences.cirm-math.fr/2751.html)  
 *CIRM, Luminy Marseille, France, 26/6/23 - 30/6/23*
-
-2. [Diophantine Approximation, Dynamics, and Fractals](https://sites.google.com/view/diophantine-exeter-june-2023/home) (celebrating Dr Demi Allen's appointment)  
-*Exeter, UK, 22/6/23 - 23/6/23*
-
-1. [Dynamics Conference](https://www.math.uzh.ch/zdc23/index.php?id=130)  
-*Zurich, Switzerland, 12/6/23 - 16/6/23*
 {: reversed="reversed"}
 
 {% include base_path %}
