@@ -8,6 +8,9 @@ author_profile: true
 
 Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a more complete list of the 30+ mathematical talks I have given. 
 
+16. Generalised intermediate dimensions. [Slides](https://amlan-banaji.github.io/files/Edinburgh2023.pdf)  
+*[Fractal Geometry](https://www.icms.org.uk/workshops/2023/fractal-geometry) (celebrating Prof. Kenneth Falconer’s 70th birthday), ICMS, Edinburgh, UK, 4/7/23*
+
 15. Fourier decay of non-linear images of self-similar measures  
 *[Diophantine Approximation, Dynamics, and Fractals](https://sites.google.com/view/diophantine-exeter-june-2023/home), Exeter, UK, 22/6/23*
 
@@ -61,14 +64,6 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a 
 
 ## Conferences 
 
-Please click [here](https://amlan-banaji.github.io/files/BanajiConferences.pdf) for a list of the 10+ mathematical conferences which I have attended. 
-I plan to attend the following upcoming conferences: 
-
-2. [Fractal Geometry](https://www.icms.org.uk/workshops/2023/fractal-geometry) (celebrating Prof. Kenneth Falconer's 70th birthday)  
-*ICMS, Edinburgh, UK, 3/7/23 - 7/7/23*
-
-1. [Multifractal analysis and self-similarity](https://conferences.cirm-math.fr/2751.html)  
-*CIRM, Luminy Marseille, France, 26/6/23 - 30/6/23*
-{: reversed="reversed"}
+Please click [here](https://amlan-banaji.github.io/files/BanajiConferences.pdf) for a list of the 15+ mathematical conferences which I have attended. 
 
 {% include base_path %}
