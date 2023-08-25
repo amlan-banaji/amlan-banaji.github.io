@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-These articles are freely available on arXiv - see the links below. 
+These articles are freely available - see the links below. 
 
 ### Research Articles
 
@@ -28,6 +28,9 @@ These articles are freely available on arXiv - see the links below.
 
 7. A. Banaji and I. Kolossváry. *Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence,* [arXiv](https://arxiv.org/abs/2111.05625), [poster](https://amlan-banaji.github.io/files/BristolCarpetsPoster.pdf)  
 *submitted*
+
+8. A. Banaji, A. Rutar and S. Troscheit. *Interpolating with generalized Assouad dimensions,* [pdf](https://amlan-banaji.github.io/files/AssouadInterpolationPaper2023.pdf)  
+*submitted*
 {: reversed="reversed"}
 ### Master's Dissertation
 
@@ -35,6 +38,6 @@ These articles are freely available on arXiv - see the links below.
 
 ### Collaborators
 
-My co-authors to date are [Jonathan Fraser](https://jonathan-fraser.github.io/homepage/) (2), [Haipeng Chen (Clarence)](https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage) (1), [István Kolossváry](https://www.st-andrews.ac.uk/mathematics-statistics/people/itk1/) (1), [Alex Rutar](https://rutar.org/) (1). 
+My co-authors to date are [Jonathan Fraser](https://jonathan-fraser.github.io/homepage/) (2), [Alex Rutar](https://rutar.org/) (2), [Haipeng Chen (Clarence)](https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage) (1), [István Kolossváry](https://www.st-andrews.ac.uk/mathematics-statistics/people/itk1/) (1), [Sascha Troscheit](https://www.troscheit.eu/) (1) 
 
 {% include base_path %}
