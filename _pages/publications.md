@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-These articles are freely available - see the links below. 
+These articles are freely available on arXiv - see the links below. 
 
 ### Research Articles
 
@@ -29,7 +29,7 @@ These articles are freely available - see the links below.
 7. A. Banaji and I. Kolossváry. *Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence,* [arXiv](https://arxiv.org/abs/2111.05625), [poster](https://amlan-banaji.github.io/files/BristolCarpetsPoster.pdf)  
 *submitted*
 
-8. A. Banaji, A. Rutar and S. Troscheit. *Interpolating with generalized Assouad dimensions,* [pdf](https://amlan-banaji.github.io/files/AssouadInterpolationPaper2023.pdf)  
+8. A. Banaji, A. Rutar and S. Troscheit. *Interpolating with generalized Assouad dimensions,* [arXiv](https://arxiv.org/abs/2308.12975)  
 *submitted*
 {: reversed="reversed"}
 ### Master's Dissertation
