@@ -16,6 +16,7 @@ Submitted:
 
 6. A. Banaji and J. M. Fraser. *Assouad type dimensions of infinitely generated attractors,* [arXiv](https://arxiv.org/abs/2207.11611)  
 {:start="6"}
+{: reversed="reversed"}
 
 Accepted: 
 
@@ -25,6 +26,7 @@ Accepted:
 4. A. Banaji. *Metric spaces where geodesics are never unique,* [arXiv](https://arxiv.org/abs/2209.00598)  
 **American Mathematical Monthly** (to appear) 
 {:start="4"}
+{: reversed="reversed"}
 
 Published: 
 
