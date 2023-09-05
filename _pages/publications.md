@@ -15,7 +15,7 @@ Submitted:
 7. A. Banaji, A. Rutar and S. Troscheit. *Interpolating with generalized Assouad dimensions,* [arXiv](https://arxiv.org/abs/2308.12975)  
 
 6. A. Banaji and J. M. Fraser. *Assouad type dimensions of infinitely generated attractors,* [arXiv](https://arxiv.org/abs/2207.11611)  
-{:start="6"}
+{:start="8"}
 {: reversed="reversed"}
 
 Accepted: 
@@ -25,7 +25,7 @@ Accepted:
 
 4. A. Banaji. *Metric spaces where geodesics are never unique,* [arXiv](https://arxiv.org/abs/2209.00598)  
 **American Mathematical Monthly** (to appear) 
-{:start="4"}
+{:start="5"}
 {: reversed="reversed"}
 
 Published: 
