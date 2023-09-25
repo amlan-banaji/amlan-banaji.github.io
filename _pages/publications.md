@@ -23,18 +23,19 @@ Accepted:
 5. A. Banaji. *Generalised intermediate dimensions,* [arXiv](https://arxiv.org/abs/2011.08613)  
 **Monatshefte für Mathematik** (to appear)
 
-4. A. Banaji. *Metric spaces where geodesics are never unique,* [arXiv](https://arxiv.org/abs/2209.00598)  
-**American Mathematical Monthly** (to appear) 
 {:start="5"}
 {: reversed="reversed"}
 
 Published: 
 
+4. A. Banaji. *Metric spaces where geodesics are never unique,* [arXiv](https://arxiv.org/abs/2209.00598)  
+**American Mathematical Monthly** 130 (2023), 747–754. 
+
 3. A. Banaji and J. M. Fraser. *Intermediate dimensions of infinitely generated attractors,* [arXiv](https://arxiv.org/abs/2104.15133)  
 **Transactions of the American Mathematical Society** 376 (2023), 2449–2479. 
 
 2. A. Banaji and H. Chen. *Dimensions of popcorn-like pyramid sets,* [arXiv](https://arxiv.org/abs/2212.06961)  
-**Journal of Fractal Geometry** 10 (2023), 151--168. 
+**Journal of Fractal Geometry** 10 (2023), 151–168. 
 
 1. A. Banaji and A. Rutar. *Attainable forms of intermediate dimensions,* [arXiv](https://arxiv.org/abs/2111.14678)  
 **Annales Fennici Mathematici** 47 (2022), 939–960. 
