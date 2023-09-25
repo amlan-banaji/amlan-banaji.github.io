@@ -22,7 +22,6 @@ Accepted:
 
 5. A. Banaji. *Generalised intermediate dimensions,* [arXiv](https://arxiv.org/abs/2011.08613)  
 **Monatshefte für Mathematik** (to appear)
-
 {:start="5"}
 {: reversed="reversed"}
 
