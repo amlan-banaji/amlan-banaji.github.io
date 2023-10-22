@@ -18,14 +18,10 @@ Submitted:
 {:start="8"}
 {: reversed="reversed"}
 
-Accepted: 
+Published: 
 
 5. A. Banaji. *Generalised intermediate dimensions,* [arXiv](https://arxiv.org/abs/2011.08613)  
-**Monatshefte für Mathematik** (to appear)
-{:start="5"}
-{: reversed="reversed"}
-
-Published: 
+**Monatshefte für Mathematik** 202 (2023), 465–506. 
 
 4. A. Banaji. *Metric spaces where geodesics are never unique,* [arXiv](https://arxiv.org/abs/2209.00598)  
 **American Mathematical Monthly** 130 (2023), 747–754. 
@@ -39,6 +35,10 @@ Published:
 1. A. Banaji and A. Rutar. *Attainable forms of intermediate dimensions,* [arXiv](https://arxiv.org/abs/2111.14678)  
 **Annales Fennici Mathematici** 47 (2022), 939–960. 
 {: reversed="reversed"}
+### PhD Thesis 
+
+[Interpolating between Hausdorff and box dimension](https://amlan-banaji.github.io/files/Thesis-Amlan-Banaji.pdf)
+
 ### Master's Dissertation
 
 [Solvability of partial differential equations on fractal domains](https://amlan-banaji.github.io/files/dissweb1.pdf) 
