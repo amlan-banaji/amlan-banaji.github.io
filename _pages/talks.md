@@ -10,6 +10,9 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a 
 
 I am currently co-organising (with [Alexey Korepanov](https://khu.dedyn.io/work/)) the Loughborough University Dynamical Systems Seminar. If your research relates to dynamical systems and you are interested in visiting Loughborough and giving a seminar, please email either of us! 
 
+18. Fourier decay of fractal measures and their pushforwards  
+*[University of Warwick Ergodic Theory and Dynamical Systems Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/dynamics/), UK, 7/11/23*
+
 17. Generalised intermediate dimensions. [Slides](https://amlan-banaji.github.io/files/Edinburgh2023.pdf)  
 *[Fractal Geometry](https://www.icms.org.uk/workshops/2023/fractal-geometry) (celebrating Prof. Kenneth Falconer’s 70th birthday), ICMS, Edinburgh, UK, 4/7/23*
 
