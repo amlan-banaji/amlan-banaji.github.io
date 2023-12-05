@@ -15,6 +15,7 @@ Submitted:
 7. A. Banaji, A. Rutar and S. Troscheit. *Interpolating with generalized Assouad dimensions,* [arXiv](https://arxiv.org/abs/2308.12975)  
 
 6. A. Banaji and J. M. Fraser. *Assouad type dimensions of infinitely generated attractors,* [arXiv](https://arxiv.org/abs/2207.11611)  
+Submitted to Nonlinearity
 {:start="8"}
 {: reversed="reversed"}
 
