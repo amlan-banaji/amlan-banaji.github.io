@@ -10,7 +10,8 @@ These articles are freely available on arXiv - see the links below.
 
 Preprints: 
 
-10. S. Baker and A. Banaji. *Polynomial Fourier decay of fractal measures and their pushforwards.* 
+10. S. Baker and A. Banaji. *Polynomial Fourier decay for fractal measures and their pushforwards,*  
+Submitted. [arXiv](https://arxiv.org/abs/2401.01241)
 
 9. A. Banaji, J. M. Fraser, I. Kolossváry and A. Rutar. *Assouad spectrum of Gatzouras–Lalley carpets.* 
 
