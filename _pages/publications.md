@@ -10,14 +10,17 @@ These articles are freely available on arXiv - see the links below.
 
 Preprints: 
 
-10. S. Baker and A. Banaji. *Polynomial Fourier decay for fractal measures and their pushforwards,*  
-Submitted. [arXiv](https://arxiv.org/abs/2401.01241)
+10. S. Baker and A. Banaji. *Polynomial Fourier decay for fractal measures and their pushforwards,* [arXiv](https://arxiv.org/abs/2401.01241)  
+Submitted. 
 
-9. A. Banaji, J. M. Fraser, I. Kolossváry and A. Rutar. *Assouad spectrum of Gatzouras–Lalley carpets.* 
+9. A. Banaji, J. M. Fraser, I. Kolossváry and A. Rutar. *Assouad spectrum of Gatzouras–Lalley carpets,* [arXiv](https://arxiv.org/abs/2401.07168)  
+Submitted. 
 
-8. A. Banaji, A. Rutar and S. Troscheit. *Interpolating with generalized Assouad dimensions,* Submitted. [arXiv](https://arxiv.org/abs/2308.12975)  
+8. A. Banaji, A. Rutar and S. Troscheit. *Interpolating with generalized Assouad dimensions,* [arXiv](https://arxiv.org/abs/2308.12975)  
+Submitted. 
 
-7. A. Banaji and I. Kolossváry. *Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence,* Submitted. [arXiv](https://arxiv.org/abs/2111.05625), [poster](https://amlan-banaji.github.io/files/BristolCarpetsPoster.pdf)  
+7. A. Banaji and I. Kolossváry. *Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence,* [arXiv](https://arxiv.org/abs/2111.05625), [poster](https://amlan-banaji.github.io/files/BristolCarpetsPoster.pdf)  
+Submitted. 
 
 6. A. Banaji and J. M. Fraser. *Assouad type dimensions of infinitely generated attractors,* [arXiv](https://arxiv.org/abs/2207.11611)  
 Submitted to Nonlinearity
