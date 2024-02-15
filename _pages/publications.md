@@ -48,6 +48,11 @@ Published:
 1. A. Banaji and A. Rutar. *Attainable forms of intermediate dimensions,* [arXiv](https://arxiv.org/abs/2111.14678)  
 **Annales Fennici Mathematici** 47 (2022), 939–960. 
 {: reversed="reversed"}
+
+### Collaborators
+
+My co-authors to date are [Jonathan Fraser](https://jonathan-fraser.github.io/homepage/) (3), [Alex Rutar](https://rutar.org/) (3), [István Kolossváry](https://www.st-andrews.ac.uk/mathematics-statistics/people/itk1/) (2), [Simon Baker](https://simonbakermaths.wordpress.com/) (1), [Haipeng Chen (Clarence)](https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage) (1), [Sascha Troscheit](https://www.troscheit.eu/) (1) 
+
 ### PhD Thesis 
 
 [Interpolating between Hausdorff and box dimension](https://amlan-banaji.github.io/files/Thesis-Amlan-Banaji.pdf)
@@ -55,9 +60,5 @@ Published:
 ### Master's Dissertation
 
 [Solvability of partial differential equations on fractal domains](https://amlan-banaji.github.io/files/dissweb1.pdf) 
-
-### Collaborators
-
-My co-authors to date are [Jonathan Fraser](https://jonathan-fraser.github.io/homepage/) (3), [Alex Rutar](https://rutar.org/) (3), [István Kolossváry](https://www.st-andrews.ac.uk/mathematics-statistics/people/itk1/) (2), [Simon Baker](https://simonbakermaths.wordpress.com/) (1), [Haipeng Chen (Clarence)](https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage) (1), [Sascha Troscheit](https://www.troscheit.eu/) (1) 
 
 {% include base_path %}

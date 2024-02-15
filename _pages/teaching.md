@@ -6,23 +6,15 @@ author_profile: true
 {% include base_path %}
 
 
+From March to May 2024 I will lecture half of the Elements of Topology undergraduate mathematics course at Loughborough University.  
 
-## Teaching (undergraduate tutorials) at the University of St Andrews
+In addition, I have been a tutor for the following undergraduate tutorials at the University of St Andrews: 
 
-### 2022 - 2023
-Tutor for MT2502 Analysis (two groups), Autumn.
-
-### 2021 - 2022
-Tutor for MT2502 Analysis (two groups), Autumn.
-
-### 2020 - 2021
-Tutor for MT2505 Abstract Algebra (two groups), Spring.
-
-Tutor for MT2502 Analysis (two groups), Autumn.
-
-### 2019 - 2020
-Tutor for MT1003 Pure and Applied Mathematics (two groups), Spring.
-
-Tutor for MT2502 Analysis (four groups), Autumn.
+- Autumn 2022: MT2502 Analysis (two groups)
+- Autumn 2021: MT2502 Analysis (two groups)
+- Spring 2021: MT2505 Abstract Algebra (two groups)
+- Autumn 2020: MT2502 Analysis (two groups)
+- Spring 2020: MT1003 Pure and Applied Mathematics (two groups)
+- Autumn 2019: MT2502 Analysis (four groups)
 
 
