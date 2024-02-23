@@ -8,11 +8,16 @@ redirect_from:
   -
 ---
 
-I am a Research Associate in Fractal Geometry in the [dynamical systems research group](https://www.lboro.ac.uk/departments/maths/research/research-groups-and-centres/dynamical-systems/) of the mathematics department at Loughborough University, working with [Dr Simon Baker](https://simonbakermaths.wordpress.com/). I completed my PhD at the University of St Andrews in 2023, under the supervision of [Prof. Jonathan Fraser](https://jonathan-fraser.github.io/homepage/) and [Prof. Kenneth Falconer](https://kennethfalconer.github.io/index.html). 
+I am a Research Associate in Fractal Geometry in the [dynamical systems research group](https://www.lboro.ac.uk/departments/maths/research/research-groups-and-centres/dynamical-systems/) of the mathematics department at Loughborough University, working with [Dr Simon Baker](https://simonbakermaths.wordpress.com/). I completed my PhD at the University of St Andrews in 2023, under the supervision of [Prof. Jonathan Fraser](https://jonathan-fraser.github.io/homepage/) and [Prof. Kenneth Falconer](https://kennethfalconer.github.io/index.html). I completed my undergraduate degree in mathematics at the University of Cambridge in 2018. 
 
 My main research interests are in geometry and analysis related to fractal sets and measures. These 'fractals' exhibit complexity over a wide range of scales, and often arise in a natural dynamical way, such as via (conformal or non-conformal) iterated function systems. Currently, I am especially interested in the rate of decay of the Fourier transform of stationary measures for such systems. I have also done a lot of work exploring different ways one can define 'dimension,' to provide refined information about the global or local scaling properties of classes of sets or measures. I enjoy finding connections between these topics and other areas of mathematics such as number theory and probability theory. 
 
-I completed my undergraduate degree in mathematics at the University of Cambridge in 2018. I completed a Master’s degree in mathematics at the University of St Andrews in 2019. 
+### Organisation 
+
+I am co-organising (with [Simon Baker](https://simonbakermaths.wordpress.com/)) a workshop on ergodic theory and fractal geometry at Loughborough University from 8--10 July 2024. Please see this [website](https://sites.google.com/view/workshoponfractalgeometryandet/home) or email either of us for more information. 
+
+I am co-organising (with [Alexey Korepanov](https://khu.dedyn.io/work/)) the Loughborough University Dynamical Systems Seminar. If your research relates to dynamical systems and you are interested in visiting Loughborough and giving a seminar, please email either of us. 
+
 
 ## Contact details
 

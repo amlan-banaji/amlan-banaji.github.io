@@ -26,7 +26,7 @@ Submitted to Advances in Mathematics
 
 Accepted:
 
-6. A. Banaji and J. M. Fraser. *Assouad type dimensions of infinitely generated attractors,* [arXiv](https://arxiv.org/abs/2207.11611)  
+6. A. Banaji and J. M. Fraser. *Assouad type dimensions of infinitely generated self-conformal sets,* [arXiv](https://arxiv.org/abs/2207.11611)  
 To appear in **Nonlinearity**
 {:start="6"}
 {: reversed="reversed"}

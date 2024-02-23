@@ -8,8 +8,6 @@ author_profile: true
 
 Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a more complete list of the 30+ mathematical talks I have given.  
 
-I am currently co-organising (with [Alexey Korepanov](https://khu.dedyn.io/work/)) the Loughborough University Dynamical Systems Seminar. If your research relates to dynamical systems and you are interested in visiting Loughborough and giving a seminar, please email either of us! 
-
 21. Fourier decay for fractal measures and their pushforwards  
 *[University of Birmingham Topology and Dynamics Seminar](https://www.birmingham.ac.uk/research/activity/mathematics/topology-dynamics/topology-seminar.aspx), UK, 8/2/24* 
 
