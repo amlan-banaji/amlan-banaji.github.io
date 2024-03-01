@@ -24,14 +24,10 @@ Submitted to Advances in Mathematics
 {:start="10"}
 {: reversed="reversed"}
 
-Accepted:
+Published:
 
 6. A. Banaji and J. M. Fraser. *Assouad type dimensions of infinitely generated self-conformal sets,* [arXiv](https://arxiv.org/abs/2207.11611)  
-To appear in **Nonlinearity**
-{:start="6"}
-{: reversed="reversed"}
-
-Published: 
+**Nonlinearity** 37 (2024), 045004. 
 
 5. A. Banaji. *Generalised intermediate dimensions,* [arXiv](https://arxiv.org/abs/2011.08613)  
 **Monatshefte für Mathematik** 202 (2023), 465–506. 
