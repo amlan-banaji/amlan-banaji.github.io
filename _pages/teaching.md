@@ -10,11 +10,11 @@ From March to May 2024 I am lecturing the Elements of Topology undergraduate mat
 
 In addition, I have been a tutor for the following undergraduate tutorials at the University of St Andrews: 
 
-- Autumn 2022: MT2502 Analysis (two groups)
-- Autumn 2021: MT2502 Analysis (two groups)
-- Spring 2021: MT2505 Abstract Algebra (two groups)
-- Autumn 2020: MT2502 Analysis (two groups)
-- Spring 2020: MT1003 Pure and Applied Mathematics (two groups)
-- Autumn 2019: MT2502 Analysis (four groups)
+- Autumn 2022: Analysis (two groups)
+- Autumn 2021: Analysis (two groups)
+- Spring 2021: Abstract Algebra (two groups)
+- Autumn 2020: Analysis (two groups)
+- Spring 2020: Pure and Applied Mathematics (two groups)
+- Autumn 2019: Analysis (four groups)
 
 
