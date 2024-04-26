@@ -26,7 +26,7 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a 
 16. Multifractal analysis on Bedford-McMullen carpets  
 *[Multifractal analysis and self-similarity](https://conferences.cirm-math.fr/2751.html), CIRM, Luminy, Marseille, France, 30/6/23*
 
-15. Fourier decay of non-linear images of self-similar measures  
+15. Fourier decay of non-linear images of self-similar measures, [Slides](https://amlan-banaji.github.io/files/ExeterFourier2023.pdf)  
 *[Diophantine Approximation, Dynamics, and Fractals](https://sites.google.com/view/diophantine-exeter-june-2023/home), Exeter, UK, 22/6/23*
 
 14. Dimensions of continued fraction sets  
@@ -38,7 +38,7 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a 
 12. Dimensions of infinitely generated self-conformal sets  
 *[University of Edinburgh Analysis Seminar](https://blogs.ed.ac.uk/analysis/analysis-seminar/), UK, 13/3/23*
 
-11. Dimensions of self-affine carpets  
+11. Dimensions of self-affine carpets. [Slides](https://amlan-banaji.github.io/files/OneWorld2023.pdf), [Video](https://www.youtube.com/watch?v=Q0SO3bzPMHI)  
 *[One World Fractals](https://www.troscheit.eu/OneWorld/past.html) (online), 18/1/23*
 
 10. Orthogonal projections of fractals and the digital sundial. [Slides](https://amlan-banaji.github.io/files/Burn2023.pdf)  

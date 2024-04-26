@@ -6,7 +6,7 @@ author_profile: true
 {% include base_path %}
 
 
-From March to May 2024 I will lecture half of the Elements of Topology undergraduate mathematics course at Loughborough University.  
+From March to May 2024 I am lecturing the Elements of Topology undergraduate mathematics course at Loughborough University.  
 
 In addition, I have been a tutor for the following undergraduate tutorials at the University of St Andrews: 
 
