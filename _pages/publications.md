@@ -18,10 +18,14 @@ Submitted.
 
 8. A. Banaji, A. Rutar and S. Troscheit. *Interpolating with generalized Assouad dimensions,* [arXiv](https://arxiv.org/abs/2308.12975)  
 Submitted. 
+{:start="10"}
+{: reversed="reversed"}
+
+Accepted: 
 
 7. A. Banaji and I. Kolossváry. *Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence,* [arXiv](https://arxiv.org/abs/2111.05625), [poster](https://amlan-banaji.github.io/files/BristolCarpetsPoster.pdf)  
-Submitted to Advances in Mathematics
-{:start="10"}
+To appear in **Advances in Mathematics**
+{:start="7"}
 {: reversed="reversed"}
 
 Published:
@@ -51,7 +55,7 @@ My co-authors to date are [Jonathan Fraser](https://jonathan-fraser.github.io/ho
 
 ### PhD Thesis 
 
-[Interpolating between Hausdorff and box dimension](https://amlan-banaji.github.io/files/Thesis-Amlan-Banaji.pdf)
+A main focus of my [PhD thesis](https://amlan-banaji.github.io/files/Thesis-Amlan-Banaji.pdf) is a family of fractal dimensions, known as the intermediate dimensions, which lie between the well known Hausdorff and box dimensions. The full thesis, entitled 'Interpolating between Hausdorff and box dimension,' can be found [here](https://amlan-banaji.github.io/files/Thesis-Amlan-Banaji.pdf). A two-page 'microthesis,' published in the May 2024 edition of the Newsletter of the London Mathematical Society and entitled 'Intermediate dimensions,' can be found [here](https://amlan-banaji.github.io/files/MicrothesisLMS.pdf). 
 
 ### Master's Dissertation
 
