@@ -85,23 +85,6 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a 
 
 ## Conferences 
 
-Please click [here](https://amlan-banaji.github.io/files/BanajiConferences.pdf) for a list of the 15+ mathematical conferences which I have attended. 
-Some conferences in summer 2024 which I am aware of and may attend are: 
-
-1. [British Early Career Mathematicians' Colloquium](https://web.mat.bham.ac.uk/BYMC/), Birmingham, UK, 13/6/24 - 14/6/24. 
-
-2. [British Mathematical Colloquium (BMC)](https://sites.google.com/view/bmc2024), Manchester, UK, 17/6/24 - 20/6/24. 
-
-3. [Geometry and fractals under the midnight Sun](https://midnightsun2024.gitlab.io/), Oulu, Finland, 25/6/24 - 28/6/24. 
-
-4. [Workshop on Ergodic Theory and Fractal Geometry](https://sites.google.com/view/workshoponfractalgeometryandet/home), Loughborough, UK, 8/7/24 - 10/7/24. 
-
-5. [Dynamical Systems: Geometric and Statistical Properties](https://warwick.ac.uk/fac/sci/maths/research/events/2023-2024/dynamicalsystems/), Warwick, UK, 15/7/24 - 19/7/24. 
-
-6. [School](https://erdoscenter.renyi.hu/events/school-dimension-theory-fractals-0) and [workshop](https://erdoscenter.renyi.hu/events/workshop-geometry-deterministic-and-random-fractals-ii) on the geometry of deterministic and random fractals II, Rényi Institute, Budapest, Hungary, school from 26/8/24 - 30/8/24, workshop from 2/9/24 - 6/9/24. 
-
-7. [Dynamical systems, number theory and quantum chaos](https://www.mv.helsinki.fi/home/sahlsten/manchester2024/index.html), Manchester, UK, 10/9/24 - 13/9/24. 
-
-8. [Fractal Geometry and Stochastics 7](https://www.tu-chemnitz.de/mathematik/stochastik/fgs7/index.html#intro), Chemnitz, Germany, 23/9/24 - 27/9/24. 
+Please click [here](https://amlan-banaji.github.io/files/BanajiConferences.pdf) for a list of the 15+ mathematical conferences which I have attended. I will attend several others during the summer of 2024. 
 
 {% include base_path %}
