@@ -54,7 +54,7 @@ My co-authors to date are [Alex Rutar](https://rutar.org/) (4), [Jonathan Fraser
 
 ### PhD Thesis 
 
-A main focus of my [PhD thesis](https://amlan-banaji.github.io/files/Thesis-Amlan-Banaji.pdf) is a family of fractal dimensions, known as the intermediate dimensions, which lie between the well known Hausdorff and box dimensions. The full thesis, entitled 'Interpolating between Hausdorff and box dimension,' can be found [here](https://arxiv.org/abs/2406.07527). A two-page 'microthesis,' published in the May 2024 edition of the Newsletter of the London Mathematical Society and entitled 'Intermediate dimensions,' can be found [here](https://amlan-banaji.github.io/files/MicrothesisLMS.pdf). 
+A main focus of my [PhD thesis](https://arxiv.org/pdf/2406.07527) is a family of fractal dimensions, known as the intermediate dimensions, which lie between the well known Hausdorff and box dimensions. The full thesis, entitled 'Interpolating between Hausdorff and box dimension,' can be found [here](https://arxiv.org/abs/2406.07527). A two-page 'microthesis,' published in the May 2024 edition of the Newsletter of the London Mathematical Society and entitled 'Intermediate dimensions,' can be found [here](https://amlan-banaji.github.io/files/MicrothesisLMS.pdf). 
 
 ### Master's Dissertation
 

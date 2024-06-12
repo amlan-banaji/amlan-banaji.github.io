@@ -11,7 +11,7 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a 
 23. Overlapping iterated function systems  
 *Keynote talk, [British Early Career Mathematicians' Colloquium](https://web.mat.bham.ac.uk/BYMC/), Birmingham, UK, 14/6/24*
 
-22. Which numbers are normal?, [Slides](https://amlan-banaji.github.io/files/PintOfScience2024.pdf)  
+22. Which numbers are normal? [Slides](https://amlan-banaji.github.io/files/PintOfScience2024.pdf)  
 *Outreach talk, [Pint of science](https://pintofscience.co.uk/event/cosmos-unveiled), Loughborough, UK, 15/5/24*
 
 21. Fourier decay for fractal measures and their pushforwards  
