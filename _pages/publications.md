@@ -10,6 +10,9 @@ These articles are freely available on arXiv - see the links below.
 
 Preprints: 
 
+11. A. Banaji and A. Rutar. *Lower box dimension of infinitely generated self-conformal sets.*  
+Preprint available soon. 
+
 10. S. Baker and A. Banaji. *Polynomial Fourier decay for fractal measures and their pushforwards,* [arXiv](https://arxiv.org/abs/2401.01241)  
 Submitted. 
 
@@ -21,14 +24,10 @@ Submitted.
 {:start="10"}
 {: reversed="reversed"}
 
-Accepted: 
+Published:
 
 7. A. Banaji and I. Kolossváry. *Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence,* [arXiv](https://arxiv.org/abs/2111.05625), [poster](https://amlan-banaji.github.io/files/BristolCarpetsPoster.pdf)  
-To appear in **Advances in Mathematics**
-{:start="7"}
-{: reversed="reversed"}
-
-Published:
+**Advances in Mathematics** 449 (2024), 109735.
 
 6. A. Banaji and J. M. Fraser. *Assouad type dimensions of infinitely generated self-conformal sets,* [arXiv](https://arxiv.org/abs/2207.11611)  
 **Nonlinearity** 37 (2024), 045004. 
@@ -51,11 +50,11 @@ Published:
 
 ### Collaborators
 
-My co-authors to date are [Jonathan Fraser](https://jonathan-fraser.github.io/homepage/) (3), [Alex Rutar](https://rutar.org/) (3), [István Kolossváry](https://www.st-andrews.ac.uk/mathematics-statistics/people/itk1/) (2), [Simon Baker](https://simonbakermaths.wordpress.com/) (1), [Haipeng Chen (Clarence)](https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage) (1), [Sascha Troscheit](https://www.troscheit.eu/) (1) 
+My co-authors to date are [Alex Rutar](https://rutar.org/) (4), [Jonathan Fraser](https://jonathan-fraser.github.io/homepage/) (3), [István Kolossváry](https://www.st-andrews.ac.uk/mathematics-statistics/people/itk1/) (2), [Simon Baker](https://simonbakermaths.wordpress.com/) (1), [Haipeng Chen (Clarence)](https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage) (1), [Sascha Troscheit](https://www.troscheit.eu/) (1) 
 
 ### PhD Thesis 
 
-A main focus of my [PhD thesis](https://amlan-banaji.github.io/files/Thesis-Amlan-Banaji.pdf) is a family of fractal dimensions, known as the intermediate dimensions, which lie between the well known Hausdorff and box dimensions. The full thesis, entitled 'Interpolating between Hausdorff and box dimension,' can be found [here](https://amlan-banaji.github.io/files/Thesis-Amlan-Banaji.pdf). A two-page 'microthesis,' published in the May 2024 edition of the Newsletter of the London Mathematical Society and entitled 'Intermediate dimensions,' can be found [here](https://amlan-banaji.github.io/files/MicrothesisLMS.pdf). 
+A main focus of my [PhD thesis](https://amlan-banaji.github.io/files/Thesis-Amlan-Banaji.pdf) is a family of fractal dimensions, known as the intermediate dimensions, which lie between the well known Hausdorff and box dimensions. The full thesis, entitled 'Interpolating between Hausdorff and box dimension,' can be found [here](https://arxiv.org/abs/2406.07527). A two-page 'microthesis,' published in the May 2024 edition of the Newsletter of the London Mathematical Society and entitled 'Intermediate dimensions,' can be found [here](https://amlan-banaji.github.io/files/MicrothesisLMS.pdf). 
 
 ### Master's Dissertation
 

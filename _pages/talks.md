@@ -8,6 +8,12 @@ author_profile: true
 
 Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a more complete list of the 30+ mathematical talks I have given.  
 
+23. Overlapping iterated function systems  
+*Keynote talk, [British Early Career Mathematicians' Colloquium](https://web.mat.bham.ac.uk/BYMC/), Birmingham, UK, 14/6/24*
+
+22. Which numbers are normal?, [Slides](https://amlan-banaji.github.io/files/PintOfScience2024.pdf)  
+*Outreach talk, [Pint of science](https://pintofscience.co.uk/event/cosmos-unveiled), Loughborough, UK, 15/5/24*
+
 21. Fourier decay for fractal measures and their pushforwards  
 *[University of Birmingham Topology and Dynamics Seminar](https://www.birmingham.ac.uk/research/activity/mathematics/topology-dynamics/topology-seminar.aspx), UK, 8/2/24* 
 
@@ -39,7 +45,7 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a 
 *[University of Edinburgh Analysis Seminar](https://blogs.ed.ac.uk/analysis/analysis-seminar/), UK, 13/3/23*
 
 11. Dimensions of self-affine carpets. [Slides](https://amlan-banaji.github.io/files/OneWorld2023.pdf), [Video](https://www.youtube.com/watch?v=Q0SO3bzPMHI)  
-*[One World Fractals](https://www.troscheit.eu/OneWorld/past.html) (online), 18/1/23*
+*[One World Fractals](https://www.oneworldfractals.org/past/) (online), 18/1/23*
 
 10. Orthogonal projections of fractals and the digital sundial. [Slides](https://amlan-banaji.github.io/files/Burn2023.pdf)  
 *Postgraduate Interdisciplinary Mathematics Symposium (PIMS) St Andrews, The Burn House (Edzell), UK, 16/1/23*
@@ -80,5 +86,22 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a 
 ## Conferences 
 
 Please click [here](https://amlan-banaji.github.io/files/BanajiConferences.pdf) for a list of the 15+ mathematical conferences which I have attended. 
+Some conferences in summer 2024 which I am aware of and may attend are: 
+
+1. [British Early Career Mathematicians' Colloquium](https://web.mat.bham.ac.uk/BYMC/), Birmingham, UK, 13/6/24 - 14/6/24. 
+
+2. [British Mathematical Colloquium (BMC)](https://sites.google.com/view/bmc2024), Manchester, UK, 17/6/24 - 20/6/24. 
+
+3. [Geometry and fractals under the midnight Sun](https://midnightsun2024.gitlab.io/), Oulu, Finland, 25/6/24 - 28/6/24. 
+
+4. [Workshop on Ergodic Theory and Fractal Geometry](https://sites.google.com/view/workshoponfractalgeometryandet/home), Loughborough, UK, 8/7/24 - 10/7/24. 
+
+5. [Dynamical Systems: Geometric and Statistical Properties](https://warwick.ac.uk/fac/sci/maths/research/events/2023-2024/dynamicalsystems/), Warwick, UK, 15/7/24 - 19/7/24. 
+
+6. [School](https://erdoscenter.renyi.hu/events/school-dimension-theory-fractals-0) and [workshop](https://erdoscenter.renyi.hu/events/workshop-geometry-deterministic-and-random-fractals-ii) on the geometry of deterministic and random fractals II, Rényi Institute, Budapest, Hungary, school from 26/8/24 - 30/8/24, workshop from 2/9/24 - 6/9/24. 
+
+7. [Dynamical systems, number theory and quantum chaos](https://www.mv.helsinki.fi/home/sahlsten/manchester2024/index.html), Manchester, UK, 10/9/24 - 13/9/24. 
+
+8. [Fractal Geometry and Stochastics 7](https://www.tu-chemnitz.de/mathematik/stochastik/fgs7/index.html#intro), Chemnitz, Germany, 23/9/24 - 27/9/24. 
 
 {% include base_path %}
