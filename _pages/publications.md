@@ -10,8 +10,9 @@ These articles are freely available on arXiv - see the links below.
 
 Preprints: 
 
-11. A. Banaji and A. Rutar. *Lower box dimension of infinitely generated self-conformal sets.*  
-Preprint available soon. 
+11. A. Banaji and A. Rutar. *Lower box dimension of infinitely generated self-conformal sets,*  
+[arXiv](https://arxiv.org/abs/2406.12821). 
+Submitted. 
 
 10. S. Baker and A. Banaji. *Polynomial Fourier decay for fractal measures and their pushforwards,* [arXiv](https://arxiv.org/abs/2401.01241)  
 Submitted. 
@@ -50,7 +51,7 @@ Published:
 
 ### Collaborators
 
-My co-authors to date are [Alex Rutar](https://rutar.org/) (4), [Jonathan Fraser](https://jonathan-fraser.github.io/homepage/) (3), [István Kolossváry](https://www.st-andrews.ac.uk/mathematics-statistics/people/itk1/) (2), [Simon Baker](https://simonbakermaths.wordpress.com/) (1), [Haipeng Chen (Clarence)](https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage) (1), [Sascha Troscheit](https://www.troscheit.eu/) (1) 
+My co-authors to date are [Alex Rutar](https://rutar.org/) (4), [Jonathan Fraser](https://jonathan-fraser.github.io/homepage/) (3), [István Kolossváry](https://www.st-andrews.ac.uk/mathematics-statistics/people/itk1/) (2), [Simon Baker](https://simonbakermaths.wordpress.com/) (1), [Haipeng (Clarence) Chen](https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage) (1), [Sascha Troscheit](https://www.troscheit.eu/) (1) 
 
 ### PhD Thesis 
 
