@@ -10,8 +10,7 @@ These articles are freely available on arXiv - see the links below.
 
 Preprints: 
 
-11. A. Banaji and A. Rutar. *Lower box dimension of infinitely generated self-conformal sets,*  
-[arXiv](https://arxiv.org/abs/2406.12821). 
+11. A. Banaji and A. Rutar. *Lower box dimension of infinitely generated self-conformal sets,* [arXiv](https://arxiv.org/abs/2406.12821).  
 Submitted. 
 
 10. S. Baker and A. Banaji. *Polynomial Fourier decay for fractal measures and their pushforwards,* [arXiv](https://arxiv.org/abs/2401.01241)  
