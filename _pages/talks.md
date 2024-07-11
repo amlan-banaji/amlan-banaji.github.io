@@ -15,7 +15,7 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a 
 *[British Mathematical Colloquium (BMC)](https://sites.google.com/view/bmc2024/workshops/ergodic-theory), Manchester, UK, 19/6/24*
 
 23. Overlapping iterated function systems [Slides](https://amlan-banaji.github.io/files/BECMC2024.pdf)  
-*Keynote talk, [British Early Career Mathematicians' Colloquium](https://web.mat.bham.ac.uk/BYMC/), Birmingham, UK, 14/6/24*
+*Invited keynote talk, [British Early Career Mathematicians' Colloquium](https://web.mat.bham.ac.uk/BYMC/), Birmingham, UK, 14/6/24*
 
 22. Which numbers are normal? [Slides](https://amlan-banaji.github.io/files/PintOfScience2024.pdf)  
 *Outreach talk, [Pint of science](https://pintofscience.co.uk/event/cosmos-unveiled), Loughborough, UK, 15/5/24*

@@ -14,8 +14,6 @@ My main research interests are in geometry and analysis related to fractal sets 
 
 ### Organisation 
 
-I am co-organising (with [Simon Baker](https://simonbakermaths.wordpress.com/)) a workshop on ergodic theory and fractal geometry at Loughborough University from 8--10 July 2024. Please see this [website](https://sites.google.com/view/workshoponfractalgeometryandet/home) or email either of us for more information. 
-
 I am co-organising (with [Alexey Korepanov](https://khu.dedyn.io/work/)) the Loughborough University Dynamical Systems Seminar. If your research relates to dynamical systems and you are interested in visiting Loughborough and giving a seminar, please email either of us. 
 
 
