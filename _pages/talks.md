@@ -91,6 +91,6 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a 
 
 ## Conferences 
 
-Please click [here](https://amlan-banaji.github.io/files/BanajiConferences.pdf) for a list of the 15+ mathematical conferences which I have attended. I will attend several others during the summer of 2024. 
+Please click [here](https://amlan-banaji.github.io/files/BanajiConferences.pdf) for a list of the 20+ mathematical conferences which I have attended. I will attend several others during the summer of 2024. 
 
 {% include base_path %}
