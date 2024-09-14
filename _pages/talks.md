@@ -8,13 +8,16 @@ author_profile: true
 
 Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a more complete list of the 30+ mathematical talks I have given.  
 
-25. Lower box dimension of infinitely generated self-conformal sets [Slides (edited)](https://amlan-banaji.github.io/files/Oulu2024.pdf)  
+26. Fourier decay for self-conformal measures  
+*[Workshop on the Geometry of Deterministic and Random Fractals II](https://erdoscenter.renyi.hu/events/workshop-geometry-deterministic-and-random-fractals-ii), Rényi Institute, Budapest, Hungary, 2/9/24*
+
+25. Lower box dimension of infinitely generated self-conformal sets. [Slides (edited)](https://amlan-banaji.github.io/files/Oulu2024.pdf)  
 *[Geometry and fractals under the midnight Sun](https://midnightsun2024.gitlab.io/) conference, Oulu, Finland, 27/6/24*
 
 24. When does the box dimension of a fractal exist? [Slides](https://amlan-banaji.github.io/files/BMC2024.pdf)  
 *[British Mathematical Colloquium (BMC)](https://sites.google.com/view/bmc2024/workshops/ergodic-theory), Manchester, UK, 19/6/24*
 
-23. Overlapping iterated function systems [Slides](https://amlan-banaji.github.io/files/BECMC2024.pdf)  
+23. Overlapping iterated function systems. [Slides](https://amlan-banaji.github.io/files/BECMC2024.pdf)  
 *Invited keynote talk, [British Early Career Mathematicians' Colloquium](https://web.mat.bham.ac.uk/BYMC/), Birmingham, UK, 14/6/24*
 
 22. Which numbers are normal? [Slides](https://amlan-banaji.github.io/files/PintOfScience2024.pdf)  
