@@ -8,6 +8,12 @@ author_profile: true
 
 Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a more complete list of the 30+ mathematical talks I have given.  
 
+28. Fourier decay for nonlinear pushforwards of self-similar measures  
+*[Fractal Geometry and Stochastics 7](https://www.tu-chemnitz.de/mathematik/stochastik/fgs7/index.html), Chemnitz, Germany, 26/9/24*
+
+27. Tools for studying Fourier transforms of self-similar measures  
+*Invited talk, [Afternoon workshop on Fourier analysis, fractals, and finite fields](https://jonathan-fraser.github.io/homepage/FFFF.html), St Andrews, UK, 18/9/24*
+
 26. Fourier decay for self-conformal measures  
 *[Workshop on the Geometry of Deterministic and Random Fractals II](https://erdoscenter.renyi.hu/events/workshop-geometry-deterministic-and-random-fractals-ii), Rényi Institute, Budapest, Hungary, 2/9/24*
 
@@ -18,7 +24,7 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a 
 *[British Mathematical Colloquium (BMC)](https://sites.google.com/view/bmc2024/workshops/ergodic-theory), Manchester, UK, 19/6/24*
 
 23. Overlapping iterated function systems. [Slides](https://amlan-banaji.github.io/files/BECMC2024.pdf)  
-*Invited keynote talk, [British Early Career Mathematicians' Colloquium](https://web.mat.bham.ac.uk/BYMC/), Birmingham, UK, 14/6/24*
+*Keynote talk, [British Early Career Mathematicians' Colloquium](https://web.mat.bham.ac.uk/BYMC/), Birmingham, UK, 14/6/24*
 
 22. Which numbers are normal? [Slides](https://amlan-banaji.github.io/files/PintOfScience2024.pdf)  
 *Outreach talk, [Pint of science](https://pintofscience.co.uk/event/cosmos-unveiled), Loughborough, UK, 15/5/24*
