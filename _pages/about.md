@@ -14,7 +14,7 @@ My main research interests are in geometry and analysis related to fractal sets 
 
 ### Organisation 
 
-I am co-organising (with [Alexey Korepanov](https://khu.dedyn.io/work/)) the Loughborough University Dynamical Systems Seminar. If your research relates to dynamical systems and you are interested in visiting Loughborough and giving a seminar, please email either of us. 
+I am organising Loughborough University's Dynamical Systems seminar. If your research relates to dynamical systems and you are interested in visiting Loughborough and giving a seminar, please send me an email. 
 
 
 ## Contact details
