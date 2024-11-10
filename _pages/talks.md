@@ -9,7 +9,7 @@ author_profile: true
 Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a more complete list of the 40+ mathematical talks/minicourses I have given.  
 
 29. Invited minicourse, Fourier decay for nonlinear fractal measures  
-*[Focused workshop on Harmonic analysis methods in fractal geometry](https://erdoscenter.renyi.hu/events/focused-workshop-harmonic-analysis-methods-fractal-geometry), Budapest, Hungary, 6/11/24 - 7/11/24*
+*[Focused workshop on harmonic analysis methods in fractal geometry](https://erdoscenter.renyi.hu/events/focused-workshop-harmonic-analysis-methods-fractal-geometry), Erdős Center, Budapest, Hungary, 6/11/24 - 7/11/24*
 
 28. Fourier decay for nonlinear pushforwards of self-similar measures  
 *[Fractal Geometry and Stochastics 7](https://www.tu-chemnitz.de/mathematik/stochastik/fgs7/index.html), Chemnitz, Germany, 26/9/24*
