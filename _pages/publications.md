@@ -13,15 +13,19 @@ Preprints:
 11. A. Banaji and A. Rutar. *Lower box dimension of infinitely generated self-conformal sets,* [arXiv](https://arxiv.org/abs/2406.12821).  
 Submitted. 
 
-10. S. Baker and A. Banaji. *Polynomial Fourier decay for fractal measures and their pushforwards,* [arXiv](https://arxiv.org/abs/2401.01241)  
+10. A. Banaji, J. M. Fraser, I. Kolossváry and A. Rutar. *Assouad spectrum of Gatzouras–Lalley carpets,* [arXiv](https://arxiv.org/abs/2401.07168)  
 Submitted. 
 
-9. A. Banaji, J. M. Fraser, I. Kolossváry and A. Rutar. *Assouad spectrum of Gatzouras–Lalley carpets,* [arXiv](https://arxiv.org/abs/2401.07168)  
-Submitted. 
-
-8. A. Banaji, A. Rutar and S. Troscheit. *Interpolating with generalized Assouad dimensions,* [arXiv](https://arxiv.org/abs/2308.12975)  
+9. A. Banaji, A. Rutar and S. Troscheit. *Interpolating with generalized Assouad dimensions,* [arXiv](https://arxiv.org/abs/2308.12975)  
 Submitted. 
 {:start="11"}
+{: reversed="reversed"}
+
+Accepted: 
+
+8. S. Baker and A. Banaji. *Polynomial Fourier decay for fractal measures and their pushforwards,* [arXiv](https://arxiv.org/abs/2401.01241)  
+To appear in **Mathematische Annalen**
+{:start="8"}
 {: reversed="reversed"}
 
 Published:
@@ -50,7 +54,7 @@ Published:
 
 ### Collaborators
 
-My co-authors to date are [Alex Rutar](https://rutar.org/) (4), [Jonathan Fraser](https://jonathan-fraser.github.io/homepage/) (3), [István Kolossváry](https://www.st-andrews.ac.uk/mathematics-statistics/people/itk1/) (2), [Simon Baker](https://simonbakermaths.wordpress.com/) (1), [Haipeng (Clarence) Chen](https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage) (1), [Sascha Troscheit](https://www.troscheit.eu/) (1) 
+My co-authors to date are [Alex Rutar](https://rutar.org/) (4), [Jonathan Fraser](https://jonathan-fraser.github.io/homepage/) (3), [István Kolossváry](https://www.st-andrews.ac.uk/mathematics-statistics/people/itk1/) (2), [Simon Baker](https://simonbakermaths.wordpress.com/), [Haipeng (Clarence) Chen](https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage), [De-Jun Feng](https://www.math.cuhk.edu.hk/~djfeng/index.html), [Chun-Kit Lai](https://sites.google.com/view/chunkitlai/home), [Sascha Troscheit](https://www.troscheit.eu/), Ying Xiong, [Han Yu](https://math-hanyu.github.io/). 
 
 ### PhD Thesis 
 

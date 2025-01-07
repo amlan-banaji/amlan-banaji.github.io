@@ -24,4 +24,4 @@ Loughborough University
 Loughborough,  LE11 3TU  
 United Kingdom
 
-Email: A.F.Banaji "at" lboro.ac.uk
+Email: banajimath "at" gmail.com

@@ -8,6 +8,9 @@ author_profile: true
 
 Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a more complete list of the 40+ mathematical talks/minicourses I have given.  
 
+30. Coincidence and disparity of fractal dimensions for dynamically defined sets  
+*[University of Manchester Dynamical Systems and Analysis seminar](https://events.manchester.ac.uk/event/event:esz-m1nz25k7-nrgwyh/dynamical-systems-and-analysis-seminar-amlan-banaji), UK, 25/11/25
+
 29. Invited minicourse, Fourier decay for nonlinear fractal measures  
 *[Focused workshop on harmonic analysis methods in fractal geometry](https://erdoscenter.renyi.hu/events/focused-workshop-harmonic-analysis-methods-fractal-geometry), Erdős Center, Budapest, Hungary, 6/11/24 - 7/11/24*
 
