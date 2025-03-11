@@ -15,7 +15,7 @@ My main research interests are in geometry and analysis related to fractal sets 
 
 ## Contact details
 
-Mathematics and Statistics  
+Department of Mathematics and Statistics  
 University of Jyväskylä  
 Jyväskylä, 40014  
 Finland 

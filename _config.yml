@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Amlan Banaji"
 title_separator          : "-"
 name                     : &name "Amlan Banaji"
-description              : &description "Research Associate at Loughborough University"
+description              : &description "Postdoctoral Researcher in Mathematics"
 url                      : https://amlan-banaji.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amlan-banaji.github.io"
@@ -81,7 +81,7 @@ author:
   name             : ""
   avatar           : "profile.jpg"
   bio              : ""
-  employer         : "Loughborough University"
+  employer         : "University of Jyväskylä"
   location         :
   googlescholar    : 
   email            :
