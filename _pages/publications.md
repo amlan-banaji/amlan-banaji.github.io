@@ -21,7 +21,7 @@ Submitted.
 
 9. A. Banaji, A. Rutar and S. Troscheit. *Interpolating with generalized Assouad dimensions,* [arXiv](https://arxiv.org/abs/2308.12975)  
 Submitted. 
-{:start="11"}
+{:start="12"}
 {: reversed="reversed"}
 
 Accepted: 
