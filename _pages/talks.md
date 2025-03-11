@@ -18,13 +18,16 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiConferences.pdf) 
 
 Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a more complete list of the 40+ mathematical talks/minicourses I have given.  
 
+31. Coincidence and disparity of fractal dimensions for dynamically defined sets  
+*[IMPAN Dynamical Systems seminar](https://sites.google.com/impan.pl/dynamical-systems/seminar/archive-of-past-seminars-2003?authuser=0), Warsaw, Poland, 17/2/25*
+
 30. Coincidence and disparity of fractal dimensions for dynamically defined sets  
 *[University of Manchester Dynamical Systems and Analysis seminar](https://events.manchester.ac.uk/event/event:esz-m1nz25k7-nrgwyh/dynamical-systems-and-analysis-seminar-amlan-banaji), UK, 25/11/25*
 
 29. Invited minicourse, Fourier decay for nonlinear fractal measures  
 *[Focused workshop on harmonic analysis methods in fractal geometry](https://erdoscenter.renyi.hu/events/focused-workshop-harmonic-analysis-methods-fractal-geometry), Erdős Center, Budapest, Hungary, 6/11/24 - 7/11/24*
 
-28. Fourier decay for nonlinear pushforwards of self-similar measures  
+28. Fourier decay for nonlinear pushforwards of self-similar measures. [Slides (edited)](https://amlan-banaji.github.io/files/Chemnitz2024.pdf)  
 *[Fractal Geometry and Stochastics 7](https://www.tu-chemnitz.de/mathematik/stochastik/fgs7/index.html), Chemnitz, Germany, 26/9/24*
 
 27. Tools for studying Fourier transforms of self-similar measures  

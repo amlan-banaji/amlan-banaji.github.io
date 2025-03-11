@@ -4,11 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-These articles are freely available on arXiv - see the links below. 
+These articles are freely available on arXiv - see the links below, or [here](https://arxiv.org/a/0000-0002-3727-0894.html)
 
 ### Research Articles
 
 Preprints: 
+
+12. A. Banaji and H. Yu. *Fourier transform of nonlinear images of self-similar measures: quantitative aspects,* [arXiv](https://arxiv.org/abs/2503.07508).  
+Submitted.
 
 11. A. Banaji and A. Rutar. *Lower box dimension of infinitely generated self-conformal sets,* [arXiv](https://arxiv.org/abs/2406.12821).  
 Submitted. 
