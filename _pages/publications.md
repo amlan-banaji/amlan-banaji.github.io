@@ -24,14 +24,10 @@ Submitted.
 {:start="12"}
 {: reversed="reversed"}
 
-Accepted: 
+Published: 
 
 8. S. Baker and A. Banaji. *Polynomial Fourier decay for fractal measures and their pushforwards,* [arXiv](https://arxiv.org/abs/2401.01241)  
-To appear in **Mathematische Annalen**
-{:start="8"}
-{: reversed="reversed"}
-
-Published:
+**Mathematische Annalen** 392 (2025), 209–261. 
 
 7. A. Banaji and I. Kolossváry. *Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence,* [arXiv](https://arxiv.org/abs/2111.05625), [poster](https://amlan-banaji.github.io/files/BristolCarpetsPoster.pdf)  
 **Advances in Mathematics** 449 (2024), 109735.
