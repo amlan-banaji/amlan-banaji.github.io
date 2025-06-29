@@ -11,6 +11,9 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a 
 
 ### Invited keynote talks and minicourses  
 
+3. Invited minicourse, Fourier decay of fractal measures  
+*Shenzhen Technology University, China, 25/6/25 - 27/6/25*
+
 2. Invited minicourse, Fourier decay for nonlinear fractal measures  
 *[Focused workshop on harmonic analysis methods in fractal geometry](https://erdoscenter.renyi.hu/events/focused-workshop-harmonic-analysis-methods-fractal-geometry), Erdős Center, Budapest, Hungary, 6/11/24 - 7/11/24*  
 
@@ -19,6 +22,9 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a 
 {: reversed="reversed"}
 
 ### Selected talks at conferences and workshops  
+
+6. Assouad dimension and its variants in fractal geometry. [Slides](https://amlan-banaji.github.io/files/BanajiShenzhen2025.pdf)  
+*Dimension theory of iterated function systems and Fourier decay of nonlinear self-similar measures workshop, Shenzhen Technology University, China, 27/6/25*
 
 5. Fourier decay for nonlinear pushforwards of self-similar measures. [Slides (edited)](https://amlan-banaji.github.io/files/Chemnitz2024.pdf)  
 *[Fractal Geometry and Stochastics 7](https://www.tu-chemnitz.de/mathematik/stochastik/fgs7/index.html), Chemnitz, Germany, 26/9/24*
@@ -42,7 +48,7 @@ I have also spoken at the [British Mathematical Colloquium (BMC) 2024](https://s
 ### Selected seminar talks  
 
 4. Dimensions of self-affine carpets. [Slides](https://amlan-banaji.github.io/files/OneWorld2023.pdf), [Video](https://www.youtube.com/watch?v=Q0SO3bzPMHI)  
-*[One World Fractals](https://www.oneworldfractals.org/past/owf20230118/) (online), 18/1/23*
+*[One World Fractals](https://www.oneworldfractals.org/past/owf20230118/) (online talks by myself and Hong Wang), 18/1/23*
 
 3. Intermediate dimensions. [Slides](https://amlan-banaji.github.io/files/Shenzhen2022.pdf)  
 *Inaugural talk, [Szenzhen Technology University Mathematics Colloquium](https://bdi.sztu.edu.cn/info/1345/5449.htm?fbclid=IwAR24TwwWZpz-LjUtDVF4E49awaOp44hBmeUaLuShGPFC1-F0RLac02d1_as), China (online), 21/10/22*

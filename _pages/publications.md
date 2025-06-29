@@ -18,10 +18,14 @@ Submitted.
 
 10. A. Banaji, J. M. Fraser, I. Kolossváry and A. Rutar. *Assouad spectrum of Gatzouras–Lalley carpets,* [arXiv](https://arxiv.org/abs/2401.07168)  
 Submitted. 
+{:start="12"}
+{: reversed="reversed"}
+
+Accepted: 
 
 9. A. Banaji, A. Rutar and S. Troscheit. *Interpolating with generalized Assouad dimensions,* [arXiv](https://arxiv.org/abs/2308.12975)  
-Submitted. 
-{:start="12"}
+To appear in the **Journal of Geometric Analysis**. 
+{:start="9"}
 {: reversed="reversed"}
 
 Published: 
