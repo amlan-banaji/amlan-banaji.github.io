@@ -28,13 +28,13 @@ Published:
 **Mathematische Annalen** 392 (2025), 209–261. 
 
 8. A. Banaji, A. Rutar and S. Troscheit. *Interpolating with generalized Assouad dimensions,* [arXiv](https://arxiv.org/abs/2308.12975)  
-**Journal of Geometric Analysis** 35 (2025), 270. 
+**Journal of Geometric Analysis** 35 (2025), no. 270. 
 
 7. A. Banaji and I. Kolossváry. *Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence,* [arXiv](https://arxiv.org/abs/2111.05625), [poster](https://amlan-banaji.github.io/files/BristolCarpetsPoster.pdf)  
-**Advances in Mathematics** 449 (2024), 109735.
+**Advances in Mathematics** 449 (2024), no. 109735.
 
 6. A. Banaji and J. M. Fraser. *Assouad type dimensions of infinitely generated self-conformal sets,* [arXiv](https://arxiv.org/abs/2207.11611)  
-**Nonlinearity** 37 (2024), 045004. 
+**Nonlinearity** 37 (2024), no. 045004. 
 
 5. A. Banaji. *Generalised intermediate dimensions,* [arXiv](https://arxiv.org/abs/2011.08613)  
 **Monatshefte für Mathematik** 202 (2023), 465–506. 

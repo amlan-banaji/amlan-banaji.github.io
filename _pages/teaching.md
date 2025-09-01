@@ -8,13 +8,9 @@ author_profile: true
 
 From March to May 2024 I lectured the Elements of Topology mathematics course to 90 second-year undergraduate students at Loughborough University.  
 
-In addition, I have been a tutor for the following undergraduate tutorials at the University of St Andrews: 
+In addition, from 2019 to 2022 I was a tutor for the following undergraduate tutorials at the University of St Andrews: 
 
-- Autumn 2022: Analysis (two groups)
-- Autumn 2021: Analysis (two groups)
-- Spring 2021: Abstract Algebra (two groups)
-- Autumn 2020: Analysis (two groups)
-- Spring 2020: Pure and Applied Mathematics (two groups)
-- Autumn 2019: Analysis (four groups)
-
+- Analysis (10 groups total)
+- Abstract Algebra (2 groups)
+- Pure and Applied Mathematics (2 groups)
 
