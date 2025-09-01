@@ -21,17 +21,14 @@ Submitted.
 {:start="12"}
 {: reversed="reversed"}
 
-Accepted: 
-
-9. A. Banaji, A. Rutar and S. Troscheit. *Interpolating with generalized Assouad dimensions,* [arXiv](https://arxiv.org/abs/2308.12975)  
-To appear in the **Journal of Geometric Analysis**. 
-{:start="9"}
-{: reversed="reversed"}
 
 Published: 
 
-8. S. Baker and A. Banaji. *Polynomial Fourier decay for fractal measures and their pushforwards,* [arXiv](https://arxiv.org/abs/2401.01241)  
+9. S. Baker and A. Banaji. *Polynomial Fourier decay for fractal measures and their pushforwards,* [arXiv](https://arxiv.org/abs/2401.01241)  
 **Mathematische Annalen** 392 (2025), 209–261. 
+
+8. A. Banaji, A. Rutar and S. Troscheit. *Interpolating with generalized Assouad dimensions,* [arXiv](https://arxiv.org/abs/2308.12975)  
+**Journal of Geometric Analysis** 35 (2025), 270. 
 
 7. A. Banaji and I. Kolossváry. *Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence,* [arXiv](https://arxiv.org/abs/2111.05625), [poster](https://amlan-banaji.github.io/files/BristolCarpetsPoster.pdf)  
 **Advances in Mathematics** 449 (2024), 109735.

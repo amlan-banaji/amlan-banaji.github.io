@@ -12,7 +12,7 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a 
 ### Invited keynote talks and minicourses  
 
 3. Invited minicourse, Fourier decay of fractal measures  
-*Shenzhen Technology University, China, 25/6/25 - 27/6/25*
+*Shenzhen Technology University, China, 25/6/25 - 26/6/25*
 
 2. Invited minicourse, Fourier decay for nonlinear fractal measures  
 *[Focused workshop on harmonic analysis methods in fractal geometry](https://erdoscenter.renyi.hu/events/focused-workshop-harmonic-analysis-methods-fractal-geometry), Erdős Center, Budapest, Hungary, 6/11/24 - 7/11/24*  
