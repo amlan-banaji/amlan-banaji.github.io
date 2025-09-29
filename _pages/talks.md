@@ -7,7 +7,7 @@ author_profile: true
 
 ## Talks 
 
-Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a more complete list of the 40+ mathematical talks/minicourses I have given.  
+Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a more complete list of the 50+ mathematical talks/minicourses I have given.  
 
 ### Invited keynote talks and minicourses  
 
@@ -48,7 +48,7 @@ I have also spoken at the [British Mathematical Colloquium (BMC) 2024](https://s
 ### Selected seminar talks  
 
 4. Dimensions of self-affine carpets. [Slides](https://amlan-banaji.github.io/files/OneWorld2023.pdf), [Video](https://www.youtube.com/watch?v=Q0SO3bzPMHI)  
-*[One World Fractals](https://www.oneworldfractals.org/past/owf20230118/) (online talks by myself and Hong Wang), 18/1/23*
+*[One World Fractals](https://www.oneworldfractals.org/past/owf20230118/) (online talks by myself and [Hong Wang](https://sites.google.com/view/hongwang/home)), 18/1/23*
 
 3. Intermediate dimensions. [Slides](https://amlan-banaji.github.io/files/Shenzhen2022.pdf)  
 *Inaugural talk, [Szenzhen Technology University Mathematics Colloquium](https://bdi.sztu.edu.cn/info/1345/5449.htm?fbclid=IwAR24TwwWZpz-LjUtDVF4E49awaOp44hBmeUaLuShGPFC1-F0RLac02d1_as), China (online), 21/10/22*
