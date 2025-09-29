@@ -10,6 +10,9 @@ These articles are freely available on arXiv - see the links below, or [here](ht
 
 Preprints: 
 
+13. S. Baker, A. Banaji, D.-J. Feng, C.-K. Lai and Y. Xiong. *Distinct dimensions for attractors of bi-Lipschitz iterated function systems,* [arXiv](https://arxiv.org/abs/2509.22084).  
+Submitted. 
+
 12. A. Banaji and H. Yu. *Fourier transform of nonlinear images of self-similar measures: quantitative aspects,* [arXiv](https://arxiv.org/abs/2503.07508).  
 Submitted.
 
@@ -18,7 +21,7 @@ Submitted.
 
 10. A. Banaji, J. M. Fraser, I. Kolossváry and A. Rutar. *Assouad spectrum of Gatzouras–Lalley carpets,* [arXiv](https://arxiv.org/abs/2401.07168)  
 Submitted. 
-{:start="12"}
+{:start="13"}
 {: reversed="reversed"}
 
 
@@ -54,7 +57,7 @@ Published:
 
 ### Collaborators
 
-My co-authors to date are [Alex Rutar](https://rutar.org/) (4), [Jonathan Fraser](https://jonathan-fraser.github.io/homepage/) (3), [István Kolossváry](https://www.st-andrews.ac.uk/mathematics-statistics/people/itk1/) (2), [Simon Baker](https://simonbakermaths.wordpress.com/), [Haipeng (Clarence) Chen](https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage), [De-Jun Feng](https://www.math.cuhk.edu.hk/~djfeng/index.html), [Chun-Kit Lai](https://sites.google.com/view/chunkitlai/home), [Sascha Troscheit](https://www.troscheit.eu/), Ying Xiong, [Han Yu](https://math-hanyu.github.io/). 
+My co-authors to date are [Alex Rutar](https://rutar.org/) (4), [Jonathan Fraser](https://jonathan-fraser.github.io/homepage/) (3), [Simon Baker](https://simonbakermaths.wordpress.com/) (2), [István Kolossváry](https://www.st-andrews.ac.uk/mathematics-statistics/people/itk1/) (2),  [Haipeng (Clarence) Chen](https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage), [De-Jun Feng](https://www.math.cuhk.edu.hk/~djfeng/index.html), [Chun-Kit Lai](https://sites.google.com/view/chunkitlai/home), [Sascha Troscheit](https://www.troscheit.eu/), Ying Xiong, [Han Yu](https://math-hanyu.github.io/). 
 
 ### PhD Thesis 
 
