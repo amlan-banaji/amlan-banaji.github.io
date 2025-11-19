@@ -18,12 +18,15 @@ Submitted.
 
 11. A. Banaji and A. Rutar. *Lower box dimension of infinitely generated self-conformal sets,* [arXiv](https://arxiv.org/abs/2406.12821).  
 Submitted. 
-
-10. A. Banaji, J. M. Fraser, I. Kolossváry and A. Rutar. *Assouad spectrum of Gatzouras–Lalley carpets,* [arXiv](https://arxiv.org/abs/2401.07168)  
-Submitted. 
 {:start="13"}
 {: reversed="reversed"}
 
+Accepted: 
+
+10. A. Banaji, J. M. Fraser, I. Kolossváry and A. Rutar. *Assouad spectrum of Gatzouras–Lalley carpets,* [arXiv](https://arxiv.org/abs/2401.07168)  
+To appear in **Advances in Mathematics**. 
+{:start="10"}
+{: reversed="reversed"}
 
 Published: 
 

@@ -51,7 +51,7 @@ I have also spoken at the [British Mathematical Colloquium (BMC) 2024](https://s
 *[One World Fractals](https://www.oneworldfractals.org/past/owf20230118/) (online talks by myself and [Hong Wang](https://sites.google.com/view/hongwang/home)), 18/1/23*
 
 3. Intermediate dimensions. [Slides](https://amlan-banaji.github.io/files/Shenzhen2022.pdf)  
-*Inaugural talk, [Szenzhen Technology University Mathematics Colloquium](https://bdi.sztu.edu.cn/info/1345/5449.htm?fbclid=IwAR24TwwWZpz-LjUtDVF4E49awaOp44hBmeUaLuShGPFC1-F0RLac02d1_as), China (online), 21/10/22*
+*Inaugural talk, [Shenzhen Technology University Mathematics Colloquium](https://bdi.sztu.edu.cn/info/1345/5449.htm?fbclid=IwAR24TwwWZpz-LjUtDVF4E49awaOp44hBmeUaLuShGPFC1-F0RLac02d1_as), China (online), 21/10/22*
 
 2. Intermediate dimensions of Bedford–McMullen carpets. [Slides (edited)](https://amlan-banaji.github.io/files/BedfordAnalysisSeminar.pdf), [Video](https://www.youtube.com/watch?v=hoHdg71ycqs)  
 *[St Andrews Analysis Seminar](https://sta-analysis.github.io/archive/) (online), 12/10/21*
