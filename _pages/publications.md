@@ -21,14 +21,10 @@ Submitted.
 {:start="13"}
 {: reversed="reversed"}
 
-Accepted: 
+Published: 
 
 10. A. Banaji, J. M. Fraser, I. Kolossváry and A. Rutar. *Assouad spectrum of Gatzouras–Lalley carpets,* [arXiv](https://arxiv.org/abs/2401.07168)  
-To appear in **Advances in Mathematics**. 
-{:start="10"}
-{: reversed="reversed"}
-
-Published: 
+**Advances in Mathematics** 484 (2026), no. 110707. 
 
 9. S. Baker and A. Banaji. *Polynomial Fourier decay for fractal measures and their pushforwards,* [arXiv](https://arxiv.org/abs/2401.01241)  
 **Mathematische Annalen** 392 (2025), 209–261. 
