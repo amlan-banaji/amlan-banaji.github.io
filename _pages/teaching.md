@@ -5,6 +5,7 @@ author_profile: true
 ---
 {% include base_path %}
 
+From March to May 2026 I will lecture the Probability 2 mathematics course at the University of Jyväskylä.  
 
 From March to May 2024 I lectured the Elements of Topology mathematics course to 90 second-year undergraduate students at Loughborough University.  
 
