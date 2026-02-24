@@ -17,7 +17,7 @@ Submitted preprints:
 12. A. Banaji and H. Yu. *Fourier transform of nonlinear images of self-similar measures: quantitative aspects,* [arXiv](https://arxiv.org/abs/2503.07508).  
 
 11. A. Banaji and A. Rutar. *Lower box dimension of infinitely generated self-conformal sets,* [arXiv](https://arxiv.org/abs/2406.12821).  
-{:start="13"}
+{:start="14"}
 {: reversed="reversed"}
 
 Published: 
