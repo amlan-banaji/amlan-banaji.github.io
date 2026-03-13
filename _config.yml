@@ -83,7 +83,7 @@ author:
   bio              : ""
   employer         : "University of Jyväskylä"
   location         :
-  googlescholar    : "citations?user=FyYdrKgAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=FyYdrKgAAAAJ"
   email            :
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "amlan-banaji-2a50b217b"
-  orcid            : "0000-0002-3727-0894"
+  orcid            : "https://orcid.org/0000-0002-3727-0894"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
