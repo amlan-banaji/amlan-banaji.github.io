@@ -7,7 +7,9 @@ author_profile: true
 This is the webpage that I will regularly update with information about the spring 2026 MATS262 Probability Theory 2 course at JYU.  
 
 ### Problem Sheets: 
-[Sheet 1](https://amlan-banaji.github.io/files/Probability2-1.pdf). [Solutions 1](https://amlan-banaji.github.io/files/Probability2-1-soln.pdf).
+[Sheet 1](https://amlan-banaji.github.io/files/Probability2-1.pdf). [Solutions 1](https://amlan-banaji.github.io/files/Probability2-1-soln.pdf).  
+
+[Sheet 2](https://amlan-banaji.github.io/files/Probability2-2.pdf). 
 
 ### Other information:  
 
