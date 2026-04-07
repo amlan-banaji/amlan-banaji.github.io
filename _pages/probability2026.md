@@ -9,7 +9,7 @@ This is the webpage that I will regularly update with information about the spri
 ### Problem Sheets: 
 [Sheet 1](https://amlan-banaji.github.io/files/Probability2-1.pdf). [Solutions 1](https://amlan-banaji.github.io/files/Probability2-1-soln.pdf).  
 
-[Sheet 2](https://amlan-banaji.github.io/files/Probability2-2.pdf). 
+[Sheet 2](https://amlan-banaji.github.io/files/Probability2-2.pdf). [Solutions 2](https://amlan-banaji.github.io/files/Probability2-2-soln.pdf).  
 
 ### Other information:  
 

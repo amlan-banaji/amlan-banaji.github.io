@@ -72,7 +72,7 @@ I have also spoken at the [Ergodic Theory and Dynamical Systems Seminar](https:/
 *Mathematics Research Day, University of St Andrews, UK, 1/12/22*
 {: reversed="reversed"}
 
-I have also spoken at the [Pint of science (Loughborough) 2024](https://pintofscience.co.uk/event/cosmos-unveiled) and to the St Andrews University Mathematics Society (SUMS). 
+I have also spoken at the Pint of science (Loughborough) 2024 and to the St Andrews University Mathematics Society (SUMS). 
 
 ## Posters
 

@@ -10,9 +10,9 @@ These articles are freely available on arXiv - see the links below, or [here](ht
 
 Submitted preprints: 
 
-15. A. Banaji, H. Chen, A. Rutar and W. Wang. *Attainable forms of lower spectra,* [arXiv](https://arxiv.org/abs/2603.03174).  
+15. S. Baker and A. Banaji, *Self-similar and self-conformal measures with slow Fourier decay,* [arXiv](https://arxiv.org/abs/2602.05593).  
 
-14. S. Baker and A. Banaji, *Self-similar and self-conformal measures with slow Fourier decay,* [arXiv](https://arxiv.org/abs/2602.05593).  
+14. A. Banaji, H. Chen, A. Rutar and W. Wang. *Attainable forms of lower spectra,* [arXiv](https://arxiv.org/abs/2603.03174).  
 
 13. S. Baker, A. Banaji, D.-J. Feng, C.-K. Lai and Y. Xiong. *Distinct dimensions for attractors of bi-Lipschitz iterated function systems,* [arXiv](https://arxiv.org/abs/2509.22084).  
 
