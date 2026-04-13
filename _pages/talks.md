@@ -23,6 +23,9 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a 
 
 ### Selected talks at conferences and workshops  
 
+7. Fourier decay for nonlinear self-conformal measures. [Slides](https://amlan-banaji.github.io/files/BanajiFourierISQGD2026.pdf)  
+*Modern trends in fractal geometry, International Society in Quantization, Geometry, and Dynamics (ISQGD) SS12 (online), 11/4/26. 
+
 6. Assouad dimension and its variants in fractal geometry. [Slides](https://amlan-banaji.github.io/files/BanajiShenzhen2025.pdf)  
 *Dimension theory of iterated function systems and Fourier decay of nonlinear self-similar measures workshop, Shenzhen Technology University, China, 27/6/25*
 
