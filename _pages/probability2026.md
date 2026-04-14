@@ -11,7 +11,9 @@ This is the webpage that I will regularly update with information about the spri
 
 [Sheet 2](https://amlan-banaji.github.io/files/Probability2-2.pdf). [Solutions 2](https://amlan-banaji.github.io/files/Probability2-2-soln.pdf).  
 
-[Sheet 3](https://amlan-banaji.github.io/files/Probability2-3.pdf).  
+[Sheet 3](https://amlan-banaji.github.io/files/Probability2-3.pdf).  [Solutions 3](https://amlan-banaji.github.io/files/Probability2-3-soln.pdf)
+
+[Sheet 4](https://amlan-banaji.github.io/files/Probability2-4.pdf).  
 
 ### Other information:  
 
