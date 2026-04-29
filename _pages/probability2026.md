@@ -11,11 +11,13 @@ This is the webpage that I will regularly update with information about the spri
 
 [Sheet 2](https://amlan-banaji.github.io/files/Probability2-2.pdf). [Solutions 2](https://amlan-banaji.github.io/files/Probability2-2-soln.pdf).  
 
-[Sheet 3](https://amlan-banaji.github.io/files/Probability2-3.pdf). [Solutions 3](https://amlan-banaji.github.io/files/Probability2-3-soln.pdf)
+[Sheet 3](https://amlan-banaji.github.io/files/Probability2-3.pdf). [Solutions 3](https://amlan-banaji.github.io/files/Probability2-3-soln.pdf)  
 
-[Sheet 4](https://amlan-banaji.github.io/files/Probability2-4.pdf). [Solutions 4](https://amlan-banaji.github.io/files/Probability2-4-soln.pdf)
+[Sheet 4](https://amlan-banaji.github.io/files/Probability2-4.pdf). [Solutions 4](https://amlan-banaji.github.io/files/Probability2-4-soln.pdf)  
 
-[Sheet 5](https://amlan-banaji.github.io/files/Probability2-5.pdf).  [Solutions 5](https://amlan-banaji.github.io/files/Probability2-5-soln.pdf)
+[Sheet 5](https://amlan-banaji.github.io/files/Probability2-5.pdf).  [Solutions 5](https://amlan-banaji.github.io/files/Probability2-5-soln.pdf)  
+
+[Sheet 6](https://amlan-banaji.github.io/files/Probability2-6.pdf).  
 
 ### Other information:  
 
