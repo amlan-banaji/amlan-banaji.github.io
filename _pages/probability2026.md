@@ -17,7 +17,7 @@ This is the webpage that I will regularly update with information about the spri
 
 [Sheet 5](https://amlan-banaji.github.io/files/Probability2-5.pdf).  [Solutions 5](https://amlan-banaji.github.io/files/Probability2-5-soln.pdf)  
 
-[Sheet 6](https://amlan-banaji.github.io/files/Probability2-6.pdf).  
+[Sheet 6](https://amlan-banaji.github.io/files/Probability2-6.pdf).  [Solutions 6](https://amlan-banaji.github.io/files/Probability2-6-soln.pdf)  
 
 ### Other information:  
 
@@ -27,5 +27,7 @@ The course will be based on parts of the book 'H. Geiss and S. Geiss, Measure, P
 We will start the lectures from Section 8.6, and a rough list of topics (these may change somewhat) which I intend to cover is available [here](https://amlan-banaji.github.io/files/Probability2Topics.pdf).  
 
 A list of some terminology, results, and concepts from Probability Theory 1 which you should be familiar with is available [here](https://amlan-banaji.github.io/files/TermsFromProbability1.pdf).  
+
+A standalone proof of the central limit theorem (based on the proof in the Geiss-Geiss book) is available [here](https://amlan-banaji.github.io/files/CLT_proof.pdf). 
 
 
