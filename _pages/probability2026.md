@@ -19,6 +19,8 @@ This is the webpage that I will regularly update with information about the spri
 
 [Sheet 6](https://amlan-banaji.github.io/files/Probability2-6.pdf).  [Solutions 6](https://amlan-banaji.github.io/files/Probability2-6-soln.pdf)  
 
+[Sheet 6](https://amlan-banaji.github.io/files/Probability2-7.pdf).  
+
 ### Other information:  
 
 General / administrative information about the course is available [here](https://amlan-banaji.github.io/files/Probability2Info.pdf). You can also find course information in sisu, but I will not often update sisu.  
