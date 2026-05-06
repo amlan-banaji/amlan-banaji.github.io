@@ -19,7 +19,7 @@ This is the webpage that I will regularly update with information about the spri
 
 [Sheet 6](https://amlan-banaji.github.io/files/Probability2-6.pdf).  [Solutions 6](https://amlan-banaji.github.io/files/Probability2-6-soln.pdf)  
 
-[Sheet 6](https://amlan-banaji.github.io/files/Probability2-7.pdf).  
+[Sheet 7](https://amlan-banaji.github.io/files/Probability2-7.pdf).  
 
 ### Other information:  
 
