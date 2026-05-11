@@ -19,7 +19,7 @@ This is the webpage that I will regularly update with information about the spri
 
 [Sheet 6](https://amlan-banaji.github.io/files/Probability2-6.pdf).  [Solutions 6](https://amlan-banaji.github.io/files/Probability2-6-soln.pdf)  
 
-[Sheet 7](https://amlan-banaji.github.io/files/Probability2-7.pdf).  
+[Sheet 7](https://amlan-banaji.github.io/files/Probability2-7.pdf).  [Solutions 7](https://amlan-banaji.github.io/files/Probability2-7-soln.pdf)  
 
 ### Other information:  
 
@@ -30,6 +30,8 @@ We will start the lectures from Section 8.6, and a rough list of topics (these m
 
 A list of some terminology, results, and concepts from Probability Theory 1 which you should be familiar with is available [here](https://amlan-banaji.github.io/files/TermsFromProbability1.pdf).  
 
-A standalone proof of the central limit theorem (based on the proof in the Geiss-Geiss book) is available [here](https://amlan-banaji.github.io/files/CLT_proof.pdf). 
+A standalone proof of the central limit theorem (based on the proof in the Geiss-Geiss book) is available [here](https://amlan-banaji.github.io/files/CLT_proof.pdf).  
+
+The exam is now 3 hours (10:00-13:00, Monday 18 May), in the usual lecture room MaD381. Please email me with any questions you may have during revision before the exam. Good luck! 
 
 
