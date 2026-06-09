@@ -23,14 +23,17 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a 
 
 ### Selected talks at conferences and workshops  
 
-7. Fourier decay for nonlinear self-conformal measures. [Slides](https://amlan-banaji.github.io/files/BanajiFourierISQGD2026.pdf)  
-*Modern trends in fractal geometry, International Society in Quantization, Geometry, and Dynamics (ISQGD) SS12 (online), 11/4/26. 
+8. Self-similar and self-conformal measures with slow Fourier decay. [Slides](https://amlan-banaji.github.io/files/BanajiFARF2026.pdf)  
+*[Fractals and Related Fields 5](https://farf5.math.cnrs.fr/), Porquerolles, France, 8/6/26*
 
-6. Assouad dimension and its variants in fractal geometry. [Slides](https://amlan-banaji.github.io/files/BanajiShenzhen2025.pdf)  
+7. Assouad dimension and its variants in fractal geometry. [Slides](https://amlan-banaji.github.io/files/BanajiShenzhen2025.pdf)  
 *Dimension theory of iterated function systems and Fourier decay of nonlinear self-similar measures workshop, Shenzhen Technology University, China, 27/6/25*
 
-5. Fourier decay for nonlinear pushforwards of self-similar measures. [Slides (edited)](https://amlan-banaji.github.io/files/Chemnitz2024.pdf)  
+6. Fourier decay for nonlinear pushforwards of self-similar measures. [Slides (edited)](https://amlan-banaji.github.io/files/Chemnitz2024.pdf)  
 *[Fractal Geometry and Stochastics 7](https://www.tu-chemnitz.de/mathematik/stochastik/fgs7/index.html), Chemnitz, Germany, 26/9/24*
+
+5. Fourier decay for self-conformal measures, [Slides (edited)](https://amlan-banaji.github.io/files/Budapest2024fourier.pdf)  
+*[Workshop on the Geometry of Deterministic and Random Fractals II](https://erdoscenter.renyi.hu/events/focused-workshop-harmonic-analysis-methods-fractal-geometry), Budapest, Hungary, 2/9/24*
 
 4. Lower box dimension of infinitely generated self-conformal sets. [Slides (edited)](https://amlan-banaji.github.io/files/Oulu2024.pdf)  
 *[Geometry and fractals under the midnight Sun](https://midnightsun2024.gitlab.io/) conference, Oulu, Finland, 27/6/24*
