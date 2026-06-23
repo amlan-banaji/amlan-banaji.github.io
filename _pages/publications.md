@@ -8,23 +8,28 @@ These articles are freely available on arXiv - see the links below, or [here](ht
 
 ### Research Articles
 
-Submitted preprints: 
+### Submitted preprints: 
 
 16. A. Banaji and H. Yu, *Fourier transform of nonlinear images of self-similar measures: qualitative aspects,* [arXiv](https://arxiv.org/abs/2606.09743).  
 
-15. A. Banaji and H. Yu. *Fourier transform of nonlinear images of self-similar measures: quantitative aspects,* [arXiv](https://arxiv.org/abs/2503.07508).  
+15. S. Baker and A. Banaji, *Self-similar and self-conformal measures with slow Fourier decay,* [arXiv](https://arxiv.org/abs/2602.05593).  
 
-14. S. Baker and A. Banaji, *Self-similar and self-conformal measures with slow Fourier decay,* [arXiv](https://arxiv.org/abs/2602.05593).  
+14. A. Banaji, H. Chen, A. Rutar and W. Wang. *Attainable forms of lower spectra,* [arXiv](https://arxiv.org/abs/2603.03174).  
 
-13. A. Banaji, H. Chen, A. Rutar and W. Wang. *Attainable forms of lower spectra,* [arXiv](https://arxiv.org/abs/2603.03174).  
+13. S. Baker, A. Banaji, D.-J. Feng, C.-K. Lai and Y. Xiong. *Distinct dimensions for attractors of bi-Lipschitz iterated function systems,* [arXiv](https://arxiv.org/abs/2509.22084).  
 
-12. S. Baker, A. Banaji, D.-J. Feng, C.-K. Lai and Y. Xiong. *Distinct dimensions for attractors of bi-Lipschitz iterated function systems,* [arXiv](https://arxiv.org/abs/2509.22084).  
-
-11. A. Banaji and A. Rutar. *Lower box dimension of infinitely generated self-conformal sets,* [arXiv](https://arxiv.org/abs/2406.12821).  
+12. A. Banaji and A. Rutar. *Lower box dimension of infinitely generated self-conformal sets,* [arXiv](https://arxiv.org/abs/2406.12821).  
 {:start="16"}
 {: reversed="reversed"}
 
-Published: 
+### Accepted: 
+
+11. A. Banaji and H. Yu. *Fourier transform of nonlinear images of self-similar measures: quantitative aspects,* [arXiv](https://arxiv.org/abs/2503.07508).  
+To appear in **Peking Mathematical Journal** 
+{:start="11"}
+{: reversed="reversed"}
+
+### Published: 
 
 10. A. Banaji, J. M. Fraser, I. Kolossváry and A. Rutar. *Assouad spectrum of Gatzouras–Lalley carpets,* [arXiv](https://arxiv.org/abs/2401.07168)  
 **Advances in Mathematics** 484 (2026), no. 110707. 
@@ -59,7 +64,7 @@ Published:
 
 ### Collaborators
 
-My co-authors to date are [Alex Rutar](https://rutar.org/) (5), [Simon Baker](https://simonbakermaths.wordpress.com/) (3), [Jonathan Fraser](https://jonathan-fraser.github.io/homepage/) (3), [Haipeng (Clarence) Chen](https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage) (2), [István Kolossváry](https://www.st-andrews.ac.uk/mathematics-statistics/people/itk1/) (2), [De-Jun Feng](https://www.math.cuhk.edu.hk/~djfeng/index.html), [Chun-Kit Lai](https://sites.google.com/view/chunkitlai/home), [Sascha Troscheit](https://www.troscheit.eu/), Wen Wang, [Ying Xiong](https://www2.scut.edu.cn/ma_en/2015/0703/c5917a209648/page.htm), [Han Yu](https://math-hanyu.github.io/). 
+My co-authors to date are [Alex Rutar](https://rutar.org/) (5), [Simon Baker](https://simonbakermaths.wordpress.com/) (3), [Jonathan Fraser](https://jonathan-fraser.github.io/homepage/) (3), [Haipeng (Clarence) Chen](https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage) (2), [István Kolossváry](https://www.st-andrews.ac.uk/mathematics-statistics/people/itk1/) (2), [Han Yu](https://math-hanyu.github.io/) (2), [De-Jun Feng](https://www.math.cuhk.edu.hk/~djfeng/index.html), [Chun-Kit Lai](https://sites.google.com/view/chunkitlai/home), [Sascha Troscheit](https://www.troscheit.eu/), Wen Wang, [Ying Xiong](https://www2.scut.edu.cn/ma_en/2015/0703/c5917a209648/page.htm). 
 
 ### PhD Thesis 
 
