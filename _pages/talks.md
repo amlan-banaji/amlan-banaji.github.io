@@ -48,7 +48,7 @@ Please click [here](https://amlan-banaji.github.io/files/BanajiTalks.pdf) for a 
 *[Geometry of Deterministic and Random Fractals](https://simon60.math.bme.hu/), Budapest University of Technology and Economics, Hungary, 30/6/22*
 {: reversed="reversed"}
 
-I have also spoken at the [British Mathematical Colloquium (BMC) 2024](https://sites.google.com/view/bmc2024/workshops/ergodic-theory) (Manchester), [Thermodynamic Formalism: Non-additive Aspects and Related Topics](https://www.impan.pl/en/activities/banach-center/conferences/23-thermoform) (Będlewo), [Fractal Geometry](https://www.icms.org.uk/workshops/2023/fractal-geometry) (celebrating Prof. Kenneth Falconer’s 70th birthday, Edinburgh), [Diophantine Approximation, Dynamics, and Fractals](https://sites.google.com/view/diophantine-exeter-june-2023/home) (Exeter), and [Workshop on affine and overlapping iterated function systems](https://www.troscheit.eu/workshop2022/index.html) (Bristol). 
+I have also spoken at the [British Mathematical Colloquium (BMC) 2024](https://sites.google.com/view/bmc2024/workshops/ergodic-theory) (Manchester), [Thermodynamic Formalism: Non-additive Aspects and Related Topics](https://www.impan.pl/en/activities/banach-center/conferences/23-thermoform) (Będlewo), [Diophantine Approximation, Dynamics, and Fractals](https://sites.google.com/view/diophantine-exeter-june-2023/home) (Exeter), and [Workshop on affine and overlapping iterated function systems](https://www.troscheit.eu/workshop2022/index.html) (Bristol). 
 
 
 ### Selected seminar talks  
