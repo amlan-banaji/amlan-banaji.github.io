@@ -12,10 +12,10 @@ See the [full list](https://amlan-banaji.github.io/files/BanajiTalks.pdf) of my 
 ### Invited keynote talks and minicourses  
 
 - Invited minicourse, Fourier decay of fractal measures  
-*Shenzhen Technology University, China, 25/6/25 - 26/6/25*
+*Shenzhen Technology University, China, 25/6/25–26/6/25*
 
 - Invited minicourse, Fourier decay for nonlinear fractal measures  
-*[Focused workshop on harmonic analysis methods in fractal geometry](https://erdoscenter.renyi.hu/events/focused-workshop-harmonic-analysis-methods-fractal-geometry), Erdős Center, Budapest, Hungary, 6/11/24 - 7/11/24*  
+*[Focused workshop on harmonic analysis methods in fractal geometry](https://erdoscenter.renyi.hu/events/focused-workshop-harmonic-analysis-methods-fractal-geometry), Erdős Center, Budapest, Hungary, 6/11/24–7/11/24*  
 
 - Overlapping iterated function systems. [Slides](https://amlan-banaji.github.io/files/BECMC2024.pdf)  
 *Keynote talk, [British Early Career Mathematicians' Colloquium](https://web.mat.bham.ac.uk/BYMC/), Birmingham, UK, 14/6/24*
@@ -79,7 +79,7 @@ I have also spoken at the Pint of Science (Loughborough) 2024 and to the St Andr
 ## Posters
 
 - [Intermediate dimensions of Bedford–McMullen carpets](https://amlan-banaji.github.io/files/BristolCarpetsPoster.pdf)  
-*[Workshop on affine and overlapping iterated function systems](https://www.troscheit.eu/workshop2022/index.html), University of Bristol, UK, 10/5/22 - 12/5/22*
+*[Workshop on affine and overlapping iterated function systems](https://www.troscheit.eu/workshop2022/index.html), University of Bristol, UK, 10/5/22–12/5/22*
 
 ## Conferences 
 
