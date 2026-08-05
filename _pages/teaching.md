@@ -5,13 +5,9 @@ author_profile: true
 ---
 {% include base_path %}
 
-From March to May 2026 I am lecturing the Probability Theory 2 (MATS262) mathematics course at the University of Jyväskylä.  
+From March to May 2026, I lectured Probability Theory 2 (MATS262) at the University of Jyväskylä. I am also supervising a bachelor's thesis.  
 
-From March to May 2024 I lectured the Elements of Topology mathematics course to 90 second-year undergraduate students at Loughborough University.  
+From March to May 2024 I lectured Elements of Topology at Loughborough University, teaching 90 second-year undergraduate students.  
 
-In addition, from 2019 to 2022 I was a tutor for the following undergraduate tutorials at the University of St Andrews: 
-
-- Analysis (10 groups total)
-- Abstract Algebra (2 groups)
-- Pure and Applied Mathematics (2 groups)
+From 2019 to 2022, I taught undergraduate tutorials at the University of St Andrews in the following subjects: Analysis (10 groups), Abstract Algebra (2 groups), Pure and Applied Mathematics (2 groups).  
 

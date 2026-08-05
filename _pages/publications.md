@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-These articles are freely available on arXiv; see the links below, or my [complete arXiv author record](https://arxiv.org/a/0000-0002-3727-0894.html)
+These articles are freely available on arXiv; see the links below, or my [complete arXiv author record](https://arxiv.org/a/0000-0002-3727-0894.html).
 
 ## Research Articles
 
@@ -40,7 +40,7 @@ To appear in **Peking Mathematical Journal**
 8. A. Banaji, A. Rutar and S. Troscheit. *Interpolating with generalized Assouad dimensions,* [arXiv](https://arxiv.org/abs/2308.12975), [DOI](https://doi.org/10.1007/s12220-025-02099-w)  
 **Journal of Geometric Analysis** 35 (2025), Article 270. 
 
-7. A. Banaji and I. Kolossváry. *Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence,* [arXiv](https://arxiv.org/abs/2111.05625), [DOI](https://doi.org/10.1016/j.aim.2024.109735) [poster](https://amlan-banaji.github.io/files/BristolCarpetsPoster.pdf)  
+7. A. Banaji and I. Kolossváry. *Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence,* [arXiv](https://arxiv.org/abs/2111.05625), [DOI](https://doi.org/10.1016/j.aim.2024.109735), [poster](https://amlan-banaji.github.io/files/BristolCarpetsPoster.pdf)  
 **Advances in Mathematics** 449 (2024), Article 109735.
 
 6. A. Banaji and J. M. Fraser. *Assouad type dimensions of infinitely generated self-conformal sets,* [arXiv](https://arxiv.org/abs/2207.11611), [DOI](https://doi.org/10.1088/1361-6544/ad2864)  
@@ -64,11 +64,11 @@ To appear in **Peking Mathematical Journal**
 
 ### Collaborators
 
-My co-authors to date are [Alex Rutar](https://rutar.org/) (5), [Simon Baker](https://simonbakermaths.wordpress.com/) (3), [Jonathan Fraser](https://jonathan-fraser.github.io/homepage/) (3), [Haipeng (Clarence) Chen](https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage) (2), [István Kolossváry](https://www.st-andrews.ac.uk/mathematics-statistics/people/itk1/) (2), [Han Yu](https://math-hanyu.github.io/) (2), [De-Jun Feng](https://www.math.cuhk.edu.hk/~djfeng/index.html), [Chun-Kit Lai](https://sites.google.com/view/chunkitlai/home), [Sascha Troscheit](https://www.troscheit.eu/), Wen Wang, [Ying Xiong](https://www2.scut.edu.cn/ma_en/2015/0703/c5917a209648/page.htm). 
+My co-authors to date are [Alex Rutar](https://rutar.org/), [Simon Baker](https://simonbakermaths.wordpress.com/), [Jonathan Fraser](https://jonathan-fraser.github.io/homepage/), [Haipeng (Clarence) Chen](https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage), [István Kolossváry](https://www.st-andrews.ac.uk/mathematics-statistics/people/itk1/), [Han Yu](https://math-hanyu.github.io/), [De-Jun Feng](https://www.math.cuhk.edu.hk/~djfeng/index.html), [Chun-Kit Lai](https://sites.google.com/view/chunkitlai/home), [Sascha Troscheit](https://www.troscheit.eu/), Wen Wang, [Ying Xiong](https://www2.scut.edu.cn/ma_en/2015/0703/c5917a209648/page.htm). 
 
 ## PhD Thesis 
 
-My [PhD thesis](https://arxiv.org/pdf/2406.07527), Interpolating between Hausdorff and box dimension, studies a family of fractal dimensions known as the intermediate dimensions, which lie between the well-known Hausdorff and box dimensions. A two-page summary, [Intermediate dimensions](https://amlan-banaji.github.io/files/MicrothesisLMS.pdf), appeared in the May 2024 issue of the Newsletter of the London Mathematical Society.
+My [PhD thesis](https://arxiv.org/pdf/2406.07527), 'Interpolating between Hausdorff and box dimension,' studies a family of fractal dimensions known as the intermediate dimensions, which lie between the well-known Hausdorff and box dimensions. A two-page summary, [Intermediate dimensions](https://amlan-banaji.github.io/files/MicrothesisLMS.pdf), appeared in the May 2024 issue of the Newsletter of the London Mathematical Society.
 
 ## Master's Dissertation
 
