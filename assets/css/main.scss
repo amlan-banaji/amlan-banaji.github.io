@@ -36,3 +36,23 @@
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+#site-nav-static {
+  min-width: 0;
+}
+
+#site-nav-static .visible-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 1.5rem;
+}
+
+#site-nav-static .visible-links > li {
+  display: block;
+  padding-right: 0;
+}
+
+#site-nav-static .visible-links a {
+  margin: 0;
+}
