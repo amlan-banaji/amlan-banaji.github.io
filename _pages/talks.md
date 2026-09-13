@@ -4,6 +4,16 @@ permalink: /talks/
 author_profile: true
 ---
 
+<nav aria-label="Sections on this page"
+     style="font-size: 0.85em; margin-bottom: 1.5em;">
+  Jump to:
+  <a href="#invited-keynote-talks-and-minicourses">Keynotes and minicourses</a> ·
+  <a href="#selected-talks-at-conferences-and-workshops">Conference talks</a> ·
+  <a href="#selected-seminar-talks">Seminars</a> ·
+  <a href="#selected-outreach-and-talks-to-general-audiences">Outreach</a> ·
+  <a href="#posters">Posters</a> ·
+  <a href="#conferences">Conferences attended</a>
+</nav>
 
 ## Talks 
 
