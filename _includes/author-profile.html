@@ -46,6 +46,9 @@
       {% if author.google_plus %}
         <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fa fa-fw fa-google-plus-square" aria-hidden="true"></i> Google+</a></li>
       {% endif %}
+      {% if author.arxiv %}
+      <li><a href="https://arxiv.org/a/0000-0002-3727-0894.html"><i class="ai ai-arxiv ai-fw" aria-hidden="true"></i> arXiv</a></li>
+      {% endif %}
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
       {% endif %}
