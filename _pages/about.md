@@ -2,9 +2,9 @@
 permalink: /
 title: "Amlan Banaji"
 author_profile: true
+seo_title: "Amlan Banaji | Mathematics"
 description: >-
-  Amlan Banaji, MSCA postdoctoral fellow at the University of Jyväskylä,
-  researching fractal geometry, Fourier decay and dimension theory.
+  Amlan Banaji, mathematician researching fractal geometry, Fourier decay and dimension theory.
 redirect_from:
   - /about/
   - /about.html
