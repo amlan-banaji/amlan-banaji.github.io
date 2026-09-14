@@ -19,7 +19,7 @@ description: >-
 
 ## Talks 
 
-See the [full list](https://amlan-banaji.github.io/files/BanajiTalks.pdf) of my more than 50 mathematical talks and minicourses.  
+See the [full talks list (pdf)](https://amlan-banaji.github.io/files/BanajiTalks.pdf) of my more than 50 mathematical talks and minicourses.  
 
 ### Invited keynote talks and minicourses  
 
@@ -95,7 +95,7 @@ I have also spoken at the Pint of Science (Loughborough) 2024 and to the St Andr
 
 ## Conferences 
 
-See the [full list](https://amlan-banaji.github.io/files/BanajiConferences.pdf) of the more than 30 mathematical conferences I have attended. 
+See the [full conference list (pdf)](https://amlan-banaji.github.io/files/BanajiConferences.pdf) of the more than 30 mathematical conferences I have attended. 
 
 
 {% include base_path %}

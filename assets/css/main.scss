@@ -56,3 +56,9 @@
 #site-nav-static .visible-links a {
   margin: 0;
 }
+
+#site-nav-static a[aria-current="page"] {
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
