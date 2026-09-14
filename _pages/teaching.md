@@ -2,6 +2,8 @@
 title: "Teaching and supervision"
 permalink: /teaching/
 author_profile: true
+description: >-
+  Amlan Banaji's university teaching and supervision, including lecturing courses in probability and topology.
 ---
 {% include base_path %}
 

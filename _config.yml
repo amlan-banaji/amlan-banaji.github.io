@@ -9,7 +9,7 @@
 locale                   : "en-UK"
 title                    : "Amlan Banaji"
 title_separator          : "-"
-name                     : &name "Mathematics"
+name                     : &name "Amlan Banaji"
 description              : &description "Postdoctoral Researcher in Mathematics"
 url                      : https://amlan-banaji.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

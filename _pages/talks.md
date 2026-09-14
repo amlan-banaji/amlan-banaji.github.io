@@ -2,6 +2,8 @@
 title: "Talks, posters and conferences"
 permalink: /talks/
 author_profile: true
+description: >-
+  Mathematical talks and minicourses by Amlan Banaji, including slides, recordings, conference presentations and outreach talks.
 ---
 
 <nav aria-label="Sections on this page"
