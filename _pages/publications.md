@@ -13,14 +13,15 @@ These articles are freely available on arXiv; see the links below, or my [comple
 16. A. Banaji and H. Yu. *Fourier transform of nonlinear images of self-similar measures: qualitative aspects,* 2026, [arXiv](https://arxiv.org/abs/2606.09743).  
 15. A. Banaji, H. Chen, A. Rutar and W. Wang. *Attainable forms of lower spectra,* 2026, [arXiv](https://arxiv.org/abs/2603.03174).  
 14. S. Baker and A. Banaji. *Self-similar and self-conformal measures with slow Fourier decay,* 2026, [arXiv](https://arxiv.org/abs/2602.05593).  
-13. S. Baker, A. Banaji, D.-J. Feng, C.-K. Lai and Y. Xiong. *Distinct dimensions for attractors of bi-Lipschitz iterated function systems,* 2025, [arXiv](https://arxiv.org/abs/2509.22084).  
-12. A. Banaji and A. Rutar. *Lower box dimension of infinitely generated self-conformal sets,* 2024, [arXiv](https://arxiv.org/abs/2406.12821).  
+13. A. Banaji and A. Rutar. *Lower box dimension of infinitely generated self-conformal sets,* 2024, [arXiv](https://arxiv.org/abs/2406.12821).  
 {:start="16"}
 {: reversed="reversed"}
 ### Accepted: 
+12. S. Baker, A. Banaji, D.-J. Feng, C.-K. Lai and Y. Xiong. *Distinct dimensions for attractors of bi-Lipschitz iterated function systems,* 2025, [arXiv](https://arxiv.org/abs/2509.22084).  
+To appear in **Analysis & PDE**
 11. A. Banaji and H. Yu. *Fourier transform of nonlinear images of self-similar measures: quantitative aspects,* 2025, [arXiv](https://arxiv.org/abs/2503.07508).  
 To appear in **Peking Mathematical Journal** 
-{:start="11"}
+{:start="12"}
 {: reversed="reversed"}
 ### Published: 
 10. A. Banaji, J. M. Fraser, I. Kolossváry and A. Rutar. *Assouad spectrum of Gatzouras–Lalley carpets,* [arXiv](https://arxiv.org/abs/2401.07168), [DOI](https://doi.org/10.1016/j.aim.2025.110707)  
